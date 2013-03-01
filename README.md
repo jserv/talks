@@ -11,3 +11,4 @@ jserv's talks
 * Mar 3 / Study-Area Tainan: [從 Binder 理解 Android 系統服務的運作原理](http://phorum.study-area.org/index.php/topic,68304.0.html)
 * Mar 7 / 新竹碼農: 虛擬機器設計與優化的初體驗
 * Mar 16 / SITCON: [作個永遠的大學生：終生學習經驗談](http://sitcon.org/2013/)
+* Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://osdc.tw/schedule.html)
