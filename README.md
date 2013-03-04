@@ -9,6 +9,6 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 19 / Android Builders Summit: [Hardware Accelerated 2D Rendering for Android](http://events.linuxfoundation.org/events/android-builders-summit/schedule)
 * Feb 22 / Embedded Linux Conference: [olibc: Another C Runtime Library for Embedded Linux](http://events.linuxfoundation.org/events/embedded-linux-conference/schedule)
 * Mar 3 / Study-Area Tainan: [從 Binder 理解 Android 系統服務的運作原理](http://phorum.study-area.org/index.php/topic,68304.0.html)
-* Mar 7 / 新竹碼農: 虛擬機器設計與優化的初體驗
+* Mar 7 / 新竹碼農: [虛擬機器設計與優化的初體驗](http://www.accupass.com/go/hcsm0307)
 * Mar 16 / SITCON: [作個永遠的大學生：終生學習經驗談](http://sitcon.org/2013/)
 * Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://osdc.tw/schedule.html)
