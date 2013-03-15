@@ -13,5 +13,6 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 12 / 成大資工: [從火星探測號談 RTOS scheduling](http://wiki.csie.ncku.edu.tw/embedded/schedule)
 * Mar 14 / 中正資工: [從火星探測號談 RTOS scheduling](http://wiki.csie.ncku.edu.tw/embedded/schedule)
 * Mar 16 / SITCON: [作個永遠的大學生：終生學習經驗談](http://sitcon.org/2013/)
+* Mar 27 / JuluOS: [探討 microkernel 三個發展世代 -- 方法與概念](http://registrano.com/events/0d3fc6)
 * Apr 15 / 成大資工: Microkernel based Operating System Design for Embedded Systems
 * Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://osdc.tw/schedule.html)
