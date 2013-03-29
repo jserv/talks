@@ -17,3 +17,4 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 15 / 成大資工: Microkernel based Operating System Design for Embedded Systems
 * Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://osdc.tw/schedule.html)
 * May 30 / 清大資工: [軟體效能分析與安全性議題](http://appuniverz.webs.com/)
+* June 6 / 中央資工
