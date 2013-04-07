@@ -19,4 +19,4 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 27 / Automotive Linux Summit Spring 2013
 * May 30 / 清大資工: [軟體效能分析與安全性議題](http://appuniverz.webs.com/)
 * Jun 6 / 中央資工
-* Aug 2 / Java Developer Day
+* Aug 2 / Java Developer Day: 從 Maxine VM 理解高效能 Java 虛擬機器運作原理
