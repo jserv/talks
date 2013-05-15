@@ -16,6 +16,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 27 / JuluOS: [探討 microkernel 三個發展世代 -- 方法與概念](http://registrano.com/events/0d3fc6)
 * Apr 15 / 成大資工: [Microkernel based Operating System Design for Embedded Systems](http://www.slideshare.net/jserv/microkernel-evolution)
 * Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://osdc.tw/schedule.html)
+* May 16 / 中正資工: L4 微核心概念與 Fiasco.OC 設計
 * May 27 / Automotive Linux Summit Spring 2013: [Shorten Device Boot time for Automotive IVI and Navigation Systems](http://automotivelinuxsummitspring2013.sched.org/)
 * May 30 / 清大資工: [軟體效能分析與安全性議題](http://appuniverz.webs.com/)
 * Jun 6 / 中央資工
