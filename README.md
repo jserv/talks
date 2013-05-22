@@ -18,7 +18,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://osdc.tw/schedule.html)
 * May 16 / 中正資工: L4 微核心概念與 Fiasco.OC 設計
 * May 27 / Automotive Linux Summit Spring 2013: [Shorten Device Boot time for Automotive IVI and Navigation Systems](http://automotivelinuxsummitspring2013.sched.org/)
-* May 30 / 交大資工: Evolution of L4 Micokernel-based Designs
+* May 30 / 交大資工: Applying Microkernel Architecture for Real-world Use Cases
 * May 30 / 清大資工: [軟體效能分析與安全性議題](http://appuniverz.webs.com/)
 * Jun 6 / 中央資工
 * Aug 2 / Java Developer Day: 從 Maxine VM 理解高效能 Java 虛擬機器運作原理
