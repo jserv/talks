@@ -21,4 +21,4 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 30 / 交大資工: Applying Microkernel Architecture for Real-world Use Cases
 * May 30 / 清大資工: [軟體效能分析與安全性議題](http://appuniverz.webs.com/)
 * Jun 6 / 中央資工
-* Aug 2 / Java Developer Day: 從 Maxine VM 理解高效能 Java 虛擬機器運作原理
+* Aug 2 / Java Developer Day: [從 Maxine VM 理解高效能 Java 虛擬機器運作原理](http://www.codedata.com.tw/event/javaday/2013/)
