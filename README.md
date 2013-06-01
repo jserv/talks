@@ -20,5 +20,5 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 27 / Automotive Linux Summit Spring 2013: [Shorten Device Boot time for Automotive IVI and Navigation Systems](http://automotivelinuxsummitspring2013.sched.org/)
 * May 30 / 交大資工: [Applying Microkernel Architecture for Real-world Use Cases](http://www.cs.nctu.edu.tw/cswebsite/news/activities/view/595)
 * May 30 / 清大資工: [軟體效能分析與安全性議題](http://appuniverz.webs.com/)
-* Jun 6 / 中央資工
+* Jun 6 / 中央資工: 淺談系統軟體的設計缺陷
 * Aug 2 / Java Developer Day: [從 Maxine VM 理解高效能 Java 虛擬機器運作原理](http://www.codedata.com.tw/event/javaday/2013/)
