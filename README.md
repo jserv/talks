@@ -22,7 +22,9 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 30 / 清大資工: [軟體效能分析與安全性議題](http://appuniverz.webs.com/)
 * Jun 6 / 中央資工: [淺談系統軟體的設計缺陷](http://goo.gl/Tlr2A)
 * Jun 29 / 第八屆開源中國開源世界高峰論壇: [參與國際級開源項目經驗談](http://ocow.csdn.net/schedule.html)
-* July 4 / MOSUT: 《Binary Hacks》重點提示
+* Jul 4 / MOSUT: 《Binary Hacks》重點提示
+* Jul 5 / 成大資工: 參與開放原始碼發展，作為人生規劃的依據
+* Jul 8 / 台北科大: 參與開放原始碼發展，作為人生規劃的依據
 * Jul 11 / 新竹碼農: LLVM 總是打開你的心：從電玩模擬器看編譯器應用實例
 * Aug 2 / Java Developer Day: [從 Maxine VM 理解高效能 Java 虛擬機器運作原理](http://www.codedata.com.tw/event/javaday/2013/)
 * Aug 3 / COSCUP: Design Power-efficient RTOS
