@@ -26,6 +26,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 5 / 成大資工: [參與開放原始碼發展，作為人生規劃的依據](http://wmmks.csie.ncku.edu.tw/tsoc2013/index.php?option=com_content&view=article&id=25)
 * Jul 8 / 台北科大: [參與開放原始碼發展，作為人生規劃的依據](http://wmmks.csie.ncku.edu.tw/tsoc2013/index.php?option=com_content&view=article&id=25)
 * Jul 11 / 新竹碼農: [LLVM 總是打開你的心：從電玩模擬器看編譯器應用實例](http://www.accupass.com/go/hcsm0711)
+* Jul 27 / 創業台槓: 南台灣的資料技術交流概況
 * Aug 1 / 成大資工: 暑期嵌入式短期訓練課程 (1)
 * Aug 2 / Java Developer Day: [從 Maxine VM 理解高效能 Java 虛擬機器運作原理](http://www.codedata.com.tw/event/javaday/2013/)
 * Aug 3 / COSCUP: Design Power-efficient RTOS
