@@ -36,6 +36,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Auf 3 / COSCUP: 工程師究竟在公司做什麼？
 * Aug 8 / 成大資工: 暑期嵌入式短期訓練課程 (2)
 * Aug 15 / 成大資工: 暑期嵌入式短期訓練課程 (3)
+* Aug 21 / JuluOS: [F9 Microkernel: 針對 ARM Cortex-M 平台開發的微核心](http://registrano.com/events/efae55)
 * Aug 22 / 成大資工: 暑期嵌入式短期訓練課程 (4)
 * Aug 29 / 成大資工: 暑期嵌入式短期訓練課程 (5)
 * Sep 5 / 成大資工: 暑期嵌入式短期訓練課程 (6)
