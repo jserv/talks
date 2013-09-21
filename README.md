@@ -41,3 +41,4 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 29 / 成大資工: 暑期嵌入式短期訓練課程 (5)
 * Sep 5 / 成大資工: 暑期嵌入式短期訓練課程 (6)
 * Sep 12 / 成大資工: 暑期嵌入式短期訓練課程 (7)
+* Sep 26 / PanSci: [如何在大專院校規劃省錢又有效的實作導向課程](http://registrano.com/events/smkx2)
