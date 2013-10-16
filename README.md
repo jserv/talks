@@ -41,6 +41,5 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 29 / 成大資工: 暑期嵌入式短期訓練課程 (5)
 * Sep 5 / 成大資工: 暑期嵌入式短期訓練課程 (6)
 * Sep 12 / 成大資工: 暑期嵌入式短期訓練課程 (7)
-* Sep 26 / PanSci: [如何在大專院校規劃省錢又有效的實作導向課程](http://registrano.com/events/smkx2)
 * Oct 17 / 工研院資通所: Implement Runtime Environments for HSA using LLVM
 * No 16 / HelloGCC: Build An Optimized C Runtime for Embedded Linux
