@@ -44,3 +44,4 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 17 / 工研院資通所: Implement Runtime Environments for HSA using LLVM
 * Nov 16 / HelloGCC: [Build An Optimized C Runtime for Embedded Linux](http://huiyi.csdn.net/meeting/info/527/community?project_id=561)
 * Dec 9 / 中正資工: Secure and Efficient Microkernel Built for Deep Embedded Systems
+* Dec 30 / 中正資工: 資訊科技從業人員經驗交流
