@@ -33,7 +33,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 3 / COSCUP: 完全使用開放原始碼做嵌入式系統教學:成果介紹
 * Aug 3 / COSCUP: Xvisor -- embedded and lightweight hypervisor
 * Aug 3 / COSCUP: F9 microkernel: built for deep embedded devices elegantly
-* Auf 3 / COSCUP: 工程師究竟在公司做什麼？
+* Aug 3 / COSCUP: 工程師究竟在公司做什麼？
 * Aug 8 / 成大資工: 暑期嵌入式短期訓練課程 (2)
 * Aug 15 / 成大資工: 暑期嵌入式短期訓練課程 (3)
 * Aug 22 / 成大資工: 暑期嵌入式短期訓練課程 (4)
