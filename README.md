@@ -46,4 +46,6 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 16 / HelloGCC: [Build An Optimized C Runtime for Embedded Linux](http://www.iscas.ac.cn/xwzx/kydt/201311/t20131115_3979276.html)
 * Nov 30 / Tainan.py: [PyPy 簡介](http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/events/148885402/)
 * Dec 9 / 中正資工: Secure and Efficient Microkernel Built for Deep Embedded Systems
+* Dec 18 / 交大資工:
+* Dec 25 / 中央資工:
 * Dec 30 / 中正資工: 資訊科技從業人員經驗交流
