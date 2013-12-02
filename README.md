@@ -39,6 +39,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 22 / 成大資工: 暑期嵌入式短期訓練課程 (4)
 * Aug 28 / JuluOS: [F9 Microkernel: 針對 ARM Cortex-M 平台開發的微核心](http://registrano.com/events/efae55)
 * Aug 29 / 成大資工: 暑期嵌入式短期訓練課程 (5)
+* Aug 31 / MOSUT: mykernel: 作業系統原理實驗環境
 * Sep 5 / 成大資工: 暑期嵌入式短期訓練課程 (6)
 * Sep 12 / 成大資工: 暑期嵌入式短期訓練課程 (7)
 * Oct 17 / 工研院資通所: Implement Runtime Environments for HSA using LLVM
