@@ -50,3 +50,6 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Dec 18 / 交大資工:
 * Dec 25 / 中央資工:
 * Dec 30 / 中正資工: 資訊科技從業人員經驗交流
+
+# schedule 2014
+* Jan 8 / 交大資工: Develop Your Own Operating Systems using Cheap ARM Boards
