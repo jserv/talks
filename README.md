@@ -46,11 +46,11 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 16 / HelloGCC: [Build An Optimized C Runtime for Embedded Linux](http://www.iscas.ac.cn/xwzx/kydt/201311/t20131115_3979276.html)
 * Nov 30 / Tainan.py: [PyPy 簡介](http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/events/148885402/)
 * Nov 30 / 創業台槓: [從醫療照護到運動保健電子跨界創業](http://www.accupass.com/go/startuptalk13)
-* Dec 9 / 中正資工: Secure and Efficient Microkernel Built for Deep Embedded Systems
+* Dec 9 / 中正資工: [Secure and Efficient Microkernel Built for Deep Embedded Systems](http://www.cs.ccu.edu.tw/ann/readFile.php?type=speech&page=a7b166b6d7f3359a245f0e2237785c08&ftype=jpg)
 * Dec 18 / 交大資工: [Open Source from Legend, Business, to Ecosystem](http://www.cs.nctu.edu.tw/cswebsite/news/activities/view/915)
 * Dec 23 / 高應大資工: [看見台灣，理解 IT](http://www.csie.kuas.edu.tw/xoops/modules/news/article.php?storyid=233)
 * Dec 25 / 中央資工: [Open Source from Legend, Business, to Ecosystem](http://www.csie.ncu.edu.tw/show.php?cate=0&mode=view&pno=4919)
-* Dec 30 / 中正資工: 資訊科技從業人員經驗交流
+* Dec 30 / 中正資工: [資訊科技從業人員經驗交流](http://www.cs.ccu.edu.tw/ann/readFile.php?type=speech&page=f18b26146bb8c1d266a5e05103681167&ftype=jpg)
 
 # schedule 2014
 * Jan 8 / 交大資工: Develop Your Own Operating Systems using Cheap ARM Boards
