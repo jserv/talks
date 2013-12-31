@@ -43,6 +43,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Sep 5 / 成大資工: 暑期嵌入式短期訓練課程 (6)
 * Sep 12 / 成大資工: 暑期嵌入式短期訓練課程 (7)
 * Oct 17 / 工研院資通所: Implement Runtime Environments for HSA using LLVM
+* Nov 10 / MiniDebConf2013: [DIY your own quadrotor helicopter](https://wiki.debian.org/DebianTaiwan/MiniDebConf201)
 * Nov 16 / HelloGCC: [Build An Optimized C Runtime for Embedded Linux](http://www.iscas.ac.cn/xwzx/kydt/201311/t20131115_3979276.html)
 * Nov 30 / Tainan.py: [PyPy 簡介](http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/events/148885402/)
 * Nov 30 / 創業台槓: [從醫療照護到運動保健電子跨界創業](http://www.accupass.com/go/startuptalk13)
