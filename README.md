@@ -1,5 +1,8 @@
 Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
 
+# schedule 2014
+* Jan 8 / 交大資工: Develop Your Own Operating Systems using Cheap ARM Boards
+
 # schedule 2013
 * Jan 4 / 成大資工: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
 * Jan 5 / 台中一中 : [你所不知道的 C 語言：破除誤解並尋求精進之道](http://phorum.study-area.org/index.php?topic=68128.0)
@@ -52,6 +55,3 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Dec 23 / 高應大資工: [看見台灣，理解 IT](http://www.csie.kuas.edu.tw/xoops/modules/news/article.php?storyid=233)
 * Dec 25 / 中央資工: [Open Source from Legend, Business, to Ecosystem](http://www.csie.ncu.edu.tw/show.php?cate=0&mode=view&pno=4919)
 * Dec 30 / 中正資工: [資訊科技從業人員經驗交流](http://www.cs.ccu.edu.tw/ann/readFile.php?type=speech&page=f18b26146bb8c1d266a5e05103681167&ftype=jpg)
-
-# schedule 2014
-* Jan 8 / 交大資工: Develop Your Own Operating Systems using Cheap ARM Boards
