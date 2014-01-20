@@ -2,6 +2,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 
 # schedule 2014
 * Jan 8 / 交大資工: [Develop Your Own Operating Systems using Cheap ARM Boards](http://www.cs.nctu.edu.tw/cswebsite/news/all/view/941)
+* Feb 10 / JuluOS: [From L3 to seL4: What Have We Learnt in 20 Years of L4 Microkernels?](http://juluosdev.kktix.cc/events/d7cc0d15)
 * May 2 / 東華大學
 
 # schedule 2013
