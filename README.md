@@ -7,6 +7,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 26 / 系統軟體短期課程: FreeRTOS 實驗
 * Feb 10 / JuluOS: [From L3 to seL4: What Have We Learnt in 20 Years of L4 Microkernels?](http://juluosdev.kktix.cc/events/d7cc0d15)
 * Feb 15 / MOSUT: 鑑古知今之作業系統發展回顧
+* Mar 15 / SITCON: 教育你的師長，和他們一同成長
 * Apr 30 / 東華大學
 * May 2 / 東華大學
 
