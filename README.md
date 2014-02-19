@@ -11,6 +11,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 12 / OSDC.tw: 從 Multics 到雲端作業系統：淺談系統程式發展和新機會
 * Apr 30 / 東華大學
 * May 2 / 東華大學
+* May 15 / 政大資科: 真實世界的編譯器運作原理：GCC 和 LLVM 為例 (1)
+* May 22 / 政大資科: 真實世界的編譯器運作原理：GCC 和 LLVM 為例 (2)
 
 # schedule 2013
 * Jan 4 / 成大資工: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
