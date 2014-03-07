@@ -9,6 +9,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 15 / MOSUT: 鑑古知今之作業系統發展回顧
 * Mar 15 / SITCON: 教育你的師長，和他們一同成長
 * Mar 20 / 明新科大: 在大學任教的中輟生：終生學習經驗談
+* Mar 22 / 創業台槓: 從電子新貴到生醫新兵：淺談醫療電子的機會
 * Apr 12 / OSDC.tw: 從 Multics 到雲端作業系統：淺談系統程式發展和新機會
 * Apr 30 / 東華大學
 * May 2 / 東華大學
