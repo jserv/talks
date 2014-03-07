@@ -8,6 +8,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 10 / JuluOS: [From L3 to seL4: What Have We Learnt in 20 Years of L4 Microkernels?](http://juluosdev.kktix.cc/events/d7cc0d15)
 * Feb 15 / MOSUT: 鑑古知今之作業系統發展回顧
 * Mar 15 / SITCON: 教育你的師長，和他們一同成長
+* Mar 20 / 明新科大: 在大學任教的中輟生：終生學習經驗談
 * Apr 12 / OSDC.tw: 從 Multics 到雲端作業系統：淺談系統程式發展和新機會
 * Apr 30 / 東華大學
 * May 2 / 東華大學
