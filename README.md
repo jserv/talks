@@ -14,6 +14,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 17 / mHealth: [整合電腦視覺和生理訊號的嬰幼兒監控系統](http://www.ctimes.com.tw/cf/ShowCF-tw.asp?O=HJY4HCP911CCFA0RNT)
 * Apr 30 / 東華大學 「自幹」：淺談透過自由軟體進行做中學
 * May 2 / 東華大學: 應用開放原始碼的作業系統核心於物聯網環境
+* May 3 / 清華大學: 
 * May 15 / 政大資科: 真實世界的編譯器運作原理：GCC 和 LLVM 為例 (1)
 * May 22 / 政大資科: 真實世界的編譯器運作原理：GCC 和 LLVM 為例 (2)
 
