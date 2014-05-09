@@ -15,8 +15,10 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 30 / 東華大學: [「自幹」：淺談透過自由軟體進行做中學](http://www.am.ndhu.edu.tw/files/14-1024-70505,r107-1.php)
 * May 2 / 東華大學: [應用開放原始碼的作業系統核心於物聯網環境](http://www.csie.ndhu.edu.tw/csieweb/zh-tw/node/1423)
 * May 3 / 清華大學: [改善台灣資訊教育的實做訓練](http://www.accupass.com/go/tedxnthu2014)
+* May 10 / MOSUT: [Android Virtual Machine and Compilers" 課程重點提示](https://www.facebook.com/events/686739794722627/)
 * May 15 / 政大資科: 真實世界的編譯器運作原理：GCC 和 LLVM 為例 (1)
 * May 22 / 政大資科: 真實世界的編譯器運作原理：GCC 和 LLVM 為例 (2)
+* Jun 4 / 大里高中:
 
 # schedule 2013
 * Jan 4 / 成大資工: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
