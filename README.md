@@ -18,8 +18,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 10 / MOSUT: [Android Virtual Machine and Compilers" 課程重點提示](https://www.facebook.com/events/686739794722627/)
 * May 15 / 政大資科: [真實世界的編譯器運作原理：GCC 和 LLVM 為例](https://nccu-sys2014.hackpad.com/)
 * May 22 / 政大資科: [真實世界的編譯器運作原理：GCC 和 LLVM 為例](https://nccu-sys2014.hackpad.com/)
-* May 29 / 政大資科:
-* Jun 4 / 大里高中:
+* May 29 / 政大資科: [真實世界的編譯器運作原理：GCC 和 LLVM 為例](https://nccu-sys2014.hackpad.com/)
+* Jun 4 / 大里高中: 無所不在的開放原始碼軟體
 
 # schedule 2013
 * Jan 4 / 成大資工: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
