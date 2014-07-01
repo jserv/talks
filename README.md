@@ -39,7 +39,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 16 / SITCON: [作個永遠的大學生：終生學習經驗談](http://sitcon.org/2013/)
 * Mar 27 / JuluOS: [探討 microkernel 三個發展世代 -- 方法與概念](http://registrano.com/events/0d3fc6)
 * Apr 15 / 成大資工: [Microkernel based Operating System Design for Embedded Systems](http://www.slideshare.net/jserv/microkernel-evolution)
-* Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://osdc.tw/schedule.html)
+* Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://www.slideshare.net/jserv/education-usingopensource)
 * May 16 / 中正資工: L4 微核心概念與 Fiasco.OC 設計
 * May 27 / Automotive Linux Summit Spring 2013: [Shorten Device Boot time for Automotive IVI and Navigation Systems](http://automotivelinuxsummitspring2013.sched.org/)
 * May 30 / 交大資工: [Applying Microkernel Architecture for Real-world Use Cases](http://www.cs.nctu.edu.tw/cswebsite/news/activities/view/595)
@@ -54,9 +54,9 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 1 / 成大資工: 暑期嵌入式短期訓練課程 (1)
 * Aug 2 / Java Developer Day: [從 Maxine VM 理解高效能 Java 虛擬機器運作原理](http://www.codedata.com.tw/event/javaday/2013/)
 * Aug 3 / COSCUP: Design Power-efficient RTOS
-* Aug 3 / COSCUP: 完全使用開放原始碼做嵌入式系統教學:成果介紹
+* Aug 3 / COSCUP: [完全使用開放原始碼做嵌入式系統教學:成果介紹](http://www.slideshare.net/jserv/education-usingopensource)
 * Aug 3 / COSCUP: Xvisor -- embedded and lightweight hypervisor
-* Aug 3 / COSCUP: F9 microkernel: built for deep embedded devices elegantly
+* Aug 3 / COSCUP: [F9 microkernel: built for deeply embedded devices elegantly](http://www.slideshare.net/jserv/f9-microkernel)
 * Aug 3 / COSCUP: 工程師究竟在公司做什麼？
 * Aug 8 / 成大資工: 暑期嵌入式短期訓練課程 (2)
 * Aug 15 / 成大資工: 暑期嵌入式短期訓練課程 (3)
