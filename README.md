@@ -21,6 +21,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 29 / 政大資科: [真實世界的編譯器運作原理：GCC 和 LLVM 為例](https://nccu-sys2014.hackpad.com/)
 * Jun 4 / 大里高中: 無所不在的開放原始碼軟體
 * Jun 28 / Study-Area: 看影片學自由軟體：從 Revolution OS 分析開放原始碼作業系統生態變化
+* July 11 / 成大資訊營: 用雙手體驗資訊技術：在資訊世界的你我能夠作什麼
 * Jul 20 / COSCUP: [黑暗中飛翔的程式碼：視障生投入自由軟體開發](http://coscup.org/2014/en/program/)
 * Aug 2 / WHSAP: The Practice about Linux Remote Processor Framework on ARM Cortex-M/A Heterogeneous Environments
 
