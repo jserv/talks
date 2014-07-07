@@ -24,7 +24,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 9 / 清華大學: FOSS and Project Collaboration
 * Jul 11 / 成大資訊營: 用雙手體驗資訊技術：在資訊世界的你我能夠作什麼
 * Jul 20 / COSCUP: [黑暗中飛翔的程式碼：視障生投入自由軟體開發](http://coscup.org/2014/en/program/)
-* Aug 2 / WHSAP: The Practice about Linux Remote Processor Framework on ARM Cortex-M/A Heterogeneous Environments
+* Aug 2 / WHSAP: [The Practice about Linux Remote Processor Framework on ARM Cortex-M/A Heterogeneous Environments](http://whsap.csie.ncku.edu.tw/HSA_Workshop/)
 
 # schedule 2013
 * Jan 4 / 成大資工: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
