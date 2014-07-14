@@ -23,6 +23,9 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 28 / Study-Area: 看影片學自由軟體：從 Revolution OS 分析開放原始碼作業系統生態變化
 * Jul 9 / 清華大學: FOSS and Project Collaboration
 * Jul 11 / 成大資訊營: 用雙手體驗資訊技術：在資訊世界的你我能夠作什麼
+* Jul 15 / 成大資工: Open Source from Legend, Business, to Ecosystem
+* Jul 15 / 成大資工: Perspectives on Internet of Things Development
+* Jul 15 / 成大資工: 淺談系統軟體的效能分析與安全性議題
 * Jul 20 / COSCUP: [黑暗中飛翔的程式碼：視障生投入自由軟體開發](http://coscup.org/2014/en/program/)
 * Aug 2 / WHSAP: [The Practice about Linux Remote Processor Framework on ARM Cortex-M/A Heterogeneous Environments](http://whsap.csie.ncku.edu.tw/HSA_Workshop/)
 
