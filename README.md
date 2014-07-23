@@ -27,6 +27,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 15 / 成大資工: Perspectives on Internet of Things Development
 * Jul 15 / 成大資工: 淺談系統軟體的效能分析與安全性議題
 * Jul 20 / COSCUP: [黑暗中飛翔的程式碼：視障生投入自由軟體開發](http://coscup.org/2014/en/program/)
+* Jul 26 / MOSUT: [Build A Lightweight Hypervisor for Realtime Linux](http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/events/196122862/)
 * Aug 2 / WHSAP: [The Practice about Linux Remote Processor Framework on ARM Cortex-M/A Heterogeneous Environments](http://whsap.csie.ncku.edu.tw/HSA_Workshop/)
 
 # schedule 2013
