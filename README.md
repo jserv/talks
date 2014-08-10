@@ -73,7 +73,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 31 / MOSUT: mykernel: 作業系統原理實驗環境
 * Sep 5 / 成大資工: 暑期嵌入式短期訓練課程 (6)
 * Sep 12 / 成大資工: 暑期嵌入式短期訓練課程 (7)
-* Oct 17 / 工研院資通所: Implement Runtime Environments for HSA using LLVM
+* Oct 17 / 工研院資通所: [Implement Runtime Environments for HSA using LLVM](http://www.slideshare.net/jserv/hsa-llvm)
 * Nov 10 / MiniDebConf2013: [DIY your own quadrotor helicopter](https://wiki.debian.org/DebianTaiwan/MiniDebConf201)
 * Nov 16 / HelloGCC: [Build An Optimized C Runtime for Embedded Linux](http://www.iscas.ac.cn/xwzx/kydt/201311/t20131115_3979276.html)
 * Nov 30 / Tainan.py: [PyPy 簡介](http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/events/148885402/)
