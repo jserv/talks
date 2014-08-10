@@ -62,7 +62,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 2 / Java Developer Day: [從 Maxine VM 理解高效能 Java 虛擬機器運作原理](http://www.codedata.com.tw/event/javaday/2013/)
 * Aug 3 / COSCUP: Design Power-efficient RTOS
 * Aug 3 / COSCUP: [完全使用開放原始碼做嵌入式系統教學:成果介紹](http://www.slideshare.net/jserv/education-usingopensource)
-* Aug 3 / COSCUP: Xvisor -- embedded and lightweight hypervisor
+* Aug 3 / COSCUP: [Xvisor -- embedded and lightweight hypervisor](http://www.slideshare.net/jserv/xvisor)
 * Aug 3 / COSCUP: [F9 microkernel: built for deeply embedded devices elegantly](http://www.slideshare.net/jserv/f9-microkernel)
 * Aug 3 / COSCUP: 工程師究竟在公司做什麼？
 * Aug 8 / 成大資工: 暑期嵌入式短期訓練課程 (2)
