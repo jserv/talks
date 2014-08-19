@@ -31,7 +31,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 2 / WHSAP: [The Practice about Linux Remote Processor Framework on ARM Cortex-M/A Heterogeneous Environments](http://whsap.csie.ncku.edu.tw/HSA_Workshop/)
 * Aug 9 / Maker Conf: [自造者精神在大學教育的實踐](http://www.makerconf.tw/?p=105)
 * Aug 23 / isrlab: seL4 Overview
-* Sep 7 / FabLab 台灣年會:
+* Sep 7 / FabLab 台灣年會: [Open Source & Open City](tdcp.kktix.cc/events/openfabcity0907)
 
 # schedule 2013
 * Jan 4 / 成大資工: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
