@@ -32,7 +32,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 9 / Maker Conf: [自造者精神在大學教育的實踐](http://www.makerconf.tw/?p=105)
 * Aug 23 / MOSUT: seL4 Overview
 * Sep 7 / FabLab 台灣年會: [Open Source & Open City](http://tdcp.kktix.cc/events/openfabcity0907)
-* Oct 8 / 中央開源社:
+* Oct 8 / 中央開源社: [親手打造四軸飛行器](http://nos.kktix.cc/events/307dae5a)
 * Oct 15 / ELCE: [rtmux: A Thin Multiplexer To Provide Hard Realtime Applications For Linux](http://events.linuxfoundation.org/events/embedded-linux-conference-europe/program/schedule)
 * Nov 15 / JCConf: OpenJDK vs. Dalvik/ART
 * Nov 17 / 中正資工:
