@@ -35,7 +35,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 8 / 中央開源社: [親手打造四軸飛行器](http://nos.kktix.cc/events/307dae5a)
 * Oct 15 / ELCE: [rtmux: A Thin Multiplexer To Provide Hard Realtime Applications For Linux](http://events.linuxfoundation.org/events/embedded-linux-conference-europe/program/schedule)
 * Nov 15 / JCConf: OpenJDK vs. Dalvik/ART
-* Nov 17 / 中正資工:
+* Nov 17 / 中正資工: The Design and Implementation of Linux Real-time Extensions
 * Nov 22 / 交大資工: 從四軸飛行器設計看異質多核心應用
 
 # schedule 2013
