@@ -39,6 +39,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 22 / 交大資工: [從四軸飛行器設計看異質多核心應用](http://ssw-nctu.kktix.cc/events/ssw01)
 * Dec 8 / 高應大: [淺談作業系統發展：科普觀點](http://www.csie.kuas.edu.tw/xoops/modules/news/article.php?storyid=307)
 * Dec 10 / 跨產業沙龍: [從工程師到產業加速器](http://tiandiren.tw/archives/10043)
+* Dec 27 / MOSUT: 快快樂樂開發作業系統
 
 # schedule 2013
 * Jan 4 / 成大資工: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
