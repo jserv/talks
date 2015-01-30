@@ -4,6 +4,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 19 / JuluOS: [向 Multics 學習：那個在你出生前就存在的作業系統，到底帶來哪些創新？](http://juluosdev.kktix.cc/events/d7cc0d15-0cba9a-eb5d0a-2f7415)
 * Jan 29 / 高中校際聯盟資訊研習營: 淺談作業系統發展：科普觀點
 * Jan 29 / 高中校際聯盟資訊研習營: 動手體驗客製化作業系統
+* Jan 31 / Hackathon Taiwan: [愛，從一個核心開始：淺談多元和協同創作](http://hackathon.tw/)
 * Mar 24 / ELC: [Optimize uClinux for ARM Cortex-M4](http://elcabs2015.sched.org/event/d76fa1347a02264b209c3c2275eaff39#.VMhle8vh6Bv)
 
 # schedule 2014
