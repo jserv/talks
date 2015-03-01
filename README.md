@@ -6,6 +6,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 29 / 高中校際聯盟資訊研習營: 動手體驗客製化作業系統
 * Jan 31 / Hackathon Taiwan: [愛，從一個核心開始：淺談多元和協同創作](http://hackathon.tw/)
 * Mar 24 / ELC: [Optimize uClinux for ARM Cortex-M4](http://elcabs2015.sched.org/event/d76fa1347a02264b209c3c2275eaff39#.VMhle8vh6Bv)
+* May 21 / 高雄第一科大: 資訊科技產業概況
 
 # schedule 2014
 * Jan 8 / 交大資工: [Develop Your Own Operating Systems using Cheap ARM Boards](http://www.cs.nctu.edu.tw/cswebsite/news/all/view/941)
