@@ -8,6 +8,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 24 / ELC: [Optimize uClinux for ARM Cortex-M4](http://elcabs2015.sched.org/event/d76fa1347a02264b209c3c2275eaff39#.VMhle8vh6Bv)
 * Apr 30 / 新竹碼農: [朝向硬即時的 Linux 核心機制](http://hcsm.kktix.cc/events/jserv01)
 * May 8 / 南台科大: 物聯網環境的作業系統設計挑戰
+* May 20 / Mokoversity: 從作業系統的演化談 IoT 軟體設計挑戰
 * May 21 / 高雄第一科大: 資訊科技產業概況
 * May 27 / 臺北市立大學: 物聯網環境的作業系統設計挑戰
 
