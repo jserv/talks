@@ -11,6 +11,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 20 / Mokoversity: [從作業系統的演化談 IoT 軟體設計挑戰](https://www.mokoversity.com/events/iot-revolution-os)
 * May 21 / 高雄第一科大: 資訊科技產業概況
 * May 24 / OCF / [資助學生向世界一流高手近身學習](http://ocf.tw/events/elc2015/)
+* May 27 / FAN2: [How can Engineers Benefit from Maker Community?](http://www.accupass.com/go/fan2)
 * May 27 / 臺北市立大學: 物聯網環境的作業系統設計挑戰
 * May 29 / CTHPC: [Construct an Efficient and Secure Microkernel for Internet of Things](http://cthpc2015.csie.ncku.edu.tw/Program.aspx)
 
