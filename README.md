@@ -14,6 +14,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 27 / FAN2: [How can Engineers Benefit from Maker Community?](http://www.accupass.com/go/fan2)
 * May 27 / 臺北市立大學: 物聯網環境的作業系統設計挑戰
 * May 29 / CTHPC: [Construct an Efficient and Secure Microkernel for Internet of Things](http://cthpc2015.csie.ncku.edu.tw/Program.aspx)
+* Jun 5 / 南台科大: 從四軸飛行器設計議題
 
 # schedule 2014
 * Jan 8 / 交大資工: [Develop Your Own Operating Systems using Cheap ARM Boards](http://www.cs.nctu.edu.tw/cswebsite/news/all/view/941)
