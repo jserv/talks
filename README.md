@@ -15,6 +15,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 27 / 臺北市立大學: 物聯網環境的作業系統設計挑戰
 * May 29 / CTHPC: [Construct an Efficient and Secure Microkernel for Internet of Things](http://cthpc2015.csie.ncku.edu.tw/Program.aspx)
 * May 31 / 台大開源社: Build Your Own Operating System
+* Jun 4 / 交通大學: [資助學生向世界一流高手近身學習](http://ocf.tw/events/elc2015/)
 * Jun 5 / 南台科大: 從四軸飛行器設計議題
 
 # schedule 2014
