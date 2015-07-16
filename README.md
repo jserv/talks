@@ -18,6 +18,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 4 / 交通大學: [資助學生向世界一流高手近身學習](http://ocf.tw/events/elc2015/)
 * Jun 5 / 南台科大: 從四軸飛行器設計議題
 * Jun 18 / 台大資工: [VM5 Lab 第 1 屆大專生系統軟體挑戰計劃/說明會](http://vmfive.kktix.cc/events/vm5lab01)
+* Oct 2 / 元智資工: 從你口袋中的手機談編譯器技術的多元應用
 
 # schedule 2014
 * Jan 8 / 交大資工: [Develop Your Own Operating Systems using Cheap ARM Boards](http://www.cs.nctu.edu.tw/cswebsite/news/all/view/941)
