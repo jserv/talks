@@ -18,6 +18,10 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 4 / 交通大學: [資助學生向世界一流高手近身學習](http://ocf.tw/events/elc2015/)
 * Jun 5 / 南台科大: 從四軸飛行器設計議題
 * Jun 18 / 台大資工: [VM5 Lab 第 1 屆大專生系統軟體挑戰計劃/說明會](http://vmfive.kktix.cc/events/vm5lab01)
+* Aug 15 / COSCUP: Linux 桌面系統在繁體中文資訊化的發展回顧
+* Aug 15 / COSCUP: Build a Minimal Operating System Kernel for ARM
+* Aug 16 / COSCUP: 為納稅人而教：開放原始碼應用於高等教育，可以帶來哪些轉變？
+* Aug 16 / COSCUP: 台灣開放原始碼生態圈回顧
 * Oct 2 / 元智資工: 從你口袋中的手機談編譯器技術的多元應用
 
 # schedule 2014
