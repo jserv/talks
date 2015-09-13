@@ -24,6 +24,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 16 / COSCUP: 台灣開放原始碼生態圈回顧
 * Sep 1 / GTC Taiwan: [資工系的學生從軟體實務角度探討如何建構多核 GPGPU 處理器](http://www.nvidia.com.tw/object/gpu-technology-conference-2015-tw.html)
 * Oct 2 / 元智資工: 從你口袋中的手機談編譯器技術的多元應用
+* Oct 21-22 / [RTLWS](https://www.osadl.org/RTLWS-2015-Graz-Austria.rtlws17-graz-2015.0.html): Performance Evaluation of Xenomai 3
 * Dec 5 / JCConf: Java HotSpot JIT 編譯器分析
 
 # schedule 2014
