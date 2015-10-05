@@ -25,7 +25,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Sep 1 / GTC Taiwan: [資工系的學生從軟體實務角度探討如何建構多核 GPGPU 處理器](http://www.nvidia.com.tw/object/gpu-technology-conference-2015-tw.html)
 * Sep 14 / Delta / 淺談多核心技術和工業控制的影響
 * Oct 2 / 元智資工: [從你口袋中的手機談編譯器技術的多元應用](http://www.cse.yzu.edu.tw/resource/detail?sort=487)
-* Oct 14 / 交大資工 : Build a Minimal Operating System Kernel for ARM
+* Oct 12 / 台大資工: Implement Isolated Security Domains for ARM-based Low-Power Devices
+* Oct 14 / 交大資工: Build a Minimal Operating System Kernel for ARM
 * Oct 21-22 / [RTLWS](https://www.osadl.org/RTLWS-2015-Graz-Austria.rtlws17-graz-2015.0.html): Performance Evaluation of Xenomai 3
 * Dec 5 / JCConf: Java HotSpot JIT 編譯器分析
 
