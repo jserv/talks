@@ -27,7 +27,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 2 / 元智資工: [從你口袋中的手機談編譯器技術的多元應用](http://www.cse.yzu.edu.tw/resource/detail?sort=487)
 * Oct 12 / 台大資工: Implement Isolated Security Domains for ARM-based Low-Power Devices
 * Oct 14 / 交大資工: Build a Minimal Operating System Kernel for ARM
-* Oct 21-22 / [RTLWS](https://www.osadl.org/RTLWS-2015-Graz-Austria.rtlws17-graz-2015.0.html): Performance Evaluation of Xenomai 3
+* Oct 21-22 / [RTLWS](https://www.osadl.org/RTLWS-2015-Graz-Austria.rtlws17-graz-2015.0.html): [Performance Evaluation of Xenomai 3](https://www.osadl.org/?id=2198)
 * Dec 5 / JCConf: Java HotSpot JIT 編譯器分析
 
 # schedule 2014
