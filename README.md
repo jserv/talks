@@ -29,6 +29,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 14 / 交大資工: Build a Minimal Operating System Kernel for ARM
 * Oct 21-22 / [RTLWS](https://www.osadl.org/RTLWS-2015-Graz-Austria.rtlws17-graz-2015.0.html): [Performance Evaluation of Xenomai 3](https://www.osadl.org/?id=2198)
 * Nov 20 / 物聯網商機與投資媒合會: [針對物聯網的作業系統設計考量](http://heyevent.com/event/zbkkuokkgk37ca/)
+* Nov 21 / MOSUT: 編譯器 -- 從電腦科學最早的理論基礎到資訊工業的推手
 * Nov 28 / 開源操作系統技術年會: [ARM mbed uvisor](http://soft.cs.tsinghua.edu.cn/os2atc2015/rc.html)
 * Dec 5 / JCConf: Java HotSpot JIT 編譯器分析
 
