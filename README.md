@@ -34,6 +34,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 23 / 成大資訊: 你所不知道的 C 語言：指標篇 (Part II)
 * Nov 28 / 開源操作系統技術年會: [ARM mbed uvisor](http://soft.cs.tsinghua.edu.cn/os2atc2015/rc.html)
 * Dec 5 / JCConf: Java HotSpot JIT 編譯器分析
+* Dec 9 / 交大資工: 參與開放原始碼專案作為終生學習
 
 # schedule 2014
 * Jan 8 / 交大資工: [Develop Your Own Operating Systems using Cheap ARM Boards](http://www.cs.nctu.edu.tw/cswebsite/news/all/view/941)
