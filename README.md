@@ -1,5 +1,8 @@
 Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
 
+# schedule 2016
+* Jan 30 / H.Spectrum: [開源生態圈與軟體設計思維](http://www.ylhspectrum.com/#!studios/cjg9)
+
 # schedule 2015
 * Jan 19 / JuluOS: [向 Multics 學習：那個在你出生前就存在的作業系統，到底帶來哪些創新？](http://juluosdev.kktix.cc/events/d7cc0d15-0cba9a-eb5d0a-2f7415)
 * Jan 29 / 高中校際聯盟資訊研習營: 淺談作業系統發展：科普觀點
