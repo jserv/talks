@@ -39,6 +39,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Dec 5 / JCConf: Java HotSpot JIT 編譯器分析
 * Dec 7 / 成大資訊: 你所不知道的 C 語言：函式呼叫篇
 * Dec 9 / 交大資工: 參與開放原始碼專案作為終生學習
+* Dec 17 / 交大資工: Internet of Things Constructions using Open Source Technologies
 
 # schedule 2014
 * Jan 8 / 交大資工: [Develop Your Own Operating Systems using Cheap ARM Boards](http://www.cs.nctu.edu.tw/cswebsite/news/all/view/941)
