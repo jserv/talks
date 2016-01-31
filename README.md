@@ -2,6 +2,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
+* Jan 22 / 廈門: 應用開源開發工具於大學實訓
 * Jan 31 / H.Spectrum: [開源生態圈與軟體設計思維](http://www.ylhspectrum.com/#!studios/cjg9)
 
 # schedule 2015
