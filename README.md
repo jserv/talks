@@ -4,6 +4,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
 * Jan 22 / 廈門: 應用開源開發工具於大學實訓
 * Jan 31 / H.Spectrum: [開源生態圈與軟體設計思維](http://www.ylhspectrum.com/#!studios/cjg9)
+* May 18 / 清大資工: 從作業系統的演化談 IoT 設計挑戰
+* May 19 / 清大資工: 開放原始碼的生態系統與商業模式
 
 # schedule 2015
 * Jan 19 / JuluOS: [向 Multics 學習：那個在你出生前就存在的作業系統，到底帶來哪些創新？](http://juluosdev.kktix.cc/events/d7cc0d15-0cba9a-eb5d0a-2f7415)
