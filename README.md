@@ -2,11 +2,12 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
-* Jan 18 / YouTube: [你所不知道的 C 語言：編譯器和最佳化原理篇](http://hackfoldr.org/dykc)
+* Jan 18 / GUTS: [你所不知道的 C 語言：編譯器和最佳化原理篇](http://hackfoldr.org/dykc)
 * Jan 22 / 廈門: 應用開源開發工具於大學實訓
 * Jan 31 / H.Spectrum: [開源生態圈與軟體設計思維](http://www.ylhspectrum.com/#!studios/cjg9)
-* Feb 1 / YouTube: [你所不知道的 C 語言：編譯器和最佳化原理篇](http://hackfoldr.org/dykc) (續集)
-* Feb 18 / YouTube: [你所不知道的 C 語言：函式呼叫篇](http://hackfoldr.org/dykc)
+* Feb 1 / GUTS: [你所不知道的 C 語言：編譯器和最佳化原理篇](http://hackfoldr.org/dykc) (續集)
+* Feb 18 / GUTS: [你所不知道的 C 語言：函式呼叫篇](http://hackfoldr.org/dykc)
+* Mar 8 / GUTS: 淺談開放原始碼和作業系統變革
 * May 18 / 清大資工: 從作業系統的演化談 IoT 設計挑戰
 * May 19 / 清大資工: 開放原始碼的生態系統與商業模式
 
