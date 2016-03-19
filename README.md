@@ -8,6 +8,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 1 / GUTS: [你所不知道的 C 語言：編譯器和最佳化原理篇](http://hackfoldr.org/dykc) (續集)
 * Feb 18 / GUTS: [你所不知道的 C 語言：函式呼叫篇](http://hackfoldr.org/dykc)
 * Mar 8 / GUTS: 淺談開放原始碼和作業系統變革
+* Mar 21 / GUTS: inux 在工業控制的應用：淺談即時系統的設計與實做
 * May 18 / 清大資工: 從作業系統的演化談 IoT 設計挑戰
 * May 19 / 清大資工: 開放原始碼的生態系統與商業模式
 
