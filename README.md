@@ -14,6 +14,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 12 / GUTS: [淺談 Microkernel 設計和真實世界中的應用](http://hackfoldr.org/oscar/)
 * May 18 / 清大資工: 從作業系統的演化談 IoT 設計挑戰
 * May 19 / 清大資工: 開放原始碼的生態系統與商業模式
+* May 24 / GUTS: [PREEMPT_RT - 朝向硬即時的 Linux 核心機制](http://hackfoldr.org/oscar/)
 * Jun 20 / 清大資工: Secure hypervisor / microkernel for IoT
 
 # schedule 2015
