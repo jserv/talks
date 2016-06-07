@@ -16,6 +16,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 19 / 清大資工: 開放原始碼的生態系統與商業模式
 * May 24 / GUTS: [PREEMPT_RT - 朝向硬即時的 Linux 核心機制](http://hackfoldr.org/oscar/)
 * Jun 20 / 清大資工: Secure hypervisor / microkernel for IoT
+* Jul 7 / 教育噗浪客: [100% 應用開放原始碼軟體進行資訊教育](http://tpet.ntct.edu.tw/files/11-1011-9820.php)
 
 # schedule 2015
 * Jan 19 / JuluOS: [向 Multics 學習：那個在你出生前就存在的作業系統，到底帶來哪些創新？](http://juluosdev.kktix.cc/events/d7cc0d15-0cba9a-eb5d0a-2f7415)
