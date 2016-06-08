@@ -12,7 +12,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 1 / GUTS: [你所不知道的 C 語言：物件導向程式設計篇](http://hackfoldr.org/dykc)
 * May 11 / GUTS: [你所不知道的 C 語言：物件導向程式設計篇](http://hackfoldr.org/dykc)
 * May 12 / GUTS: [淺談 Microkernel 設計和真實世界中的應用](http://hackfoldr.org/oscar/)
-* May 18 / 清大資工: 從作業系統的演化談 IoT 設計挑戰
+* May 18 / 清大資工: [從作業系統的演化談 IoT 設計挑戰](http://web.cs.nthu.edu.tw/files/14-1015-103326,r67-1.php?Lang=zh-tw)
 * May 19 / 清大資工: 開放原始碼的生態系統與商業模式
 * May 24 / GUTS: [PREEMPT_RT - 朝向硬即時的 Linux 核心機制](http://hackfoldr.org/oscar/)
 * Jun 3 / PyCon: [Python 導入系統軟體教學](Python 導入系統軟體教學)
