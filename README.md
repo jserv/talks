@@ -18,6 +18,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 24 / GUTS: [PREEMPT_RT - 朝向硬即時的 Linux 核心機制](http://hackfoldr.org/oscar/)
 * Jun 3 / PyCon: [Python 導入系統軟體教學](Python 導入系統軟體教學)
 * Jun 20 / 清大資工: Secure hypervisor / microkernel for IoT
+* Jun 25 / HKOSCon: [回顧台灣自由開源軟體發展](http://2016.opensource.hk/topics/free-and-open-source-software-involvement-in-taiwan/)
 * Jul 7 / 教育噗浪客: [100% 應用開放原始碼軟體進行資訊教育](http://tpet.ntct.edu.tw/files/11-1011-9820.php)
 
 # schedule 2015
