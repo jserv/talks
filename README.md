@@ -19,6 +19,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 3 / PyCon: [Python 導入系統軟體教學](Python 導入系統軟體教學)
 * Jun 20 / 清大資工: Secure hypervisor / microkernel for IoT
 * Jun 25 / HKOSCon: [回顧台灣自由開源軟體發展](http://2016.opensource.hk/topics/free-and-open-source-software-involvement-in-taiwan/)
+* Jun 27 / GUTS: [從無到有打造 IoT 作業系統核心](http://hackfoldr.org/oscar/)
 * Jun 29 / GUTS: [你所不知道的 C 語言：前置處理器應用篇](http://hackfoldr.org/dykc)
 * Jul 7 / 教育噗浪客: [100% 應用開放原始碼軟體進行資訊教育](http://tpet.ntct.edu.tw/files/11-1011-9820.php)
 
