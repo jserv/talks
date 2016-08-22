@@ -23,6 +23,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 27 / GUTS: [從無到有打造 IoT 作業系統核心](http://hackfoldr.org/oscar/)
 * Jun 29 / GUTS: [你所不知道的 C 語言：前置處理器應用篇](http://hackfoldr.org/dykc)
 * Jul 7 / 教育噗浪客: [100% 應用開放原始碼軟體進行資訊教育](http://tpet.ntct.edu.tw/files/11-1011-9820.php)
+* Aug 23 / GUTS: [你所不知道的 C 語言：動態連結器篇](http://hackfoldr.org/dykc)
 
 # schedule 2015
 * Jan 19 / JuluOS: [向 Multics 學習：那個在你出生前就存在的作業系統，到底帶來哪些創新？](http://juluosdev.kktix.cc/events/d7cc0d15-0cba9a-eb5d0a-2f7415)
