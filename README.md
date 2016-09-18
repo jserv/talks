@@ -24,6 +24,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 29 / GUTS: [你所不知道的 C 語言：前置處理器應用篇](http://hackfoldr.org/dykc)
 * Jul 7 / 教育噗浪客: [100% 應用開放原始碼軟體進行資訊教育](http://tpet.ntct.edu.tw/files/11-1011-9820.php)
 * Aug 25 / GUTS: [你所不知道的 C 語言：動態連結器篇](http://hackfoldr.org/dykc)
+* Sep 18 / GUTS: [你所不知道的 C 語言：指標篇](http://hackfoldr.org/dykc)
 * Oct 15 / JCConf: 透過 Graal compiler 打造運作於 HotSpot 的高效能語言執行環境
 * Nov 8 / 朝陽科大: 開放原始碼生態系統和商業模式
 
