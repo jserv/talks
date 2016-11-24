@@ -27,6 +27,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Sep 18 / GUTS: [你所不知道的 C 語言：指標篇](http://hackfoldr.org/dykc)
 * Oct 15 / JCConf: 透過 Graal compiler 打造運作於 HotSpot 的高效能語言執行環境
 * Nov 8 / 朝陽科大: 開放原始碼生態系統和商業模式
+* Nov 23 / GUTS: [你所不知道的 C 語言：遞迴呼叫篇](http://hackfoldr.org/dykc)
 
 # schedule 2015
 * Jan 19 / JuluOS: [向 Multics 學習：那個在你出生前就存在的作業系統，到底帶來哪些創新？](http://juluosdev.kktix.cc/events/d7cc0d15-0cba9a-eb5d0a-2f7415)
