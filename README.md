@@ -28,6 +28,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 15 / JCConf: 透過 Graal compiler 打造運作於 HotSpot 的高效能語言執行環境
 * Nov 8 / 朝陽科大: 開放原始碼生態系統和商業模式
 * Nov 23 / GUTS: [你所不知道的 C 語言：遞迴呼叫篇](http://hackfoldr.org/dykc)
+* Dec 17 / 開源操作系統技術年會: [BitSec: Secure Microkernel](http://soft.cs.tsinghua.edu.cn/os2atc2016/rc.html)
 * Dec 23 / NTU: Automated Techniques for Formal Software Verification
 
 # schedule 2015
