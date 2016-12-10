@@ -29,7 +29,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 8 / 朝陽科大: 開放原始碼生態系統和商業模式
 * Nov 23 / GUTS: [你所不知道的 C 語言：遞迴呼叫篇](http://hackfoldr.org/dykc)
 * Dec 17 / 開源操作系統技術年會: [BitSec: Secure Microkernel](http://soft.cs.tsinghua.edu.cn/os2atc2016/rc.html)
-* Dec 23 / NTU: Automated Techniques for Formal Software Verification
+* Dec 23 / NTU: [Automated Techniques for Formal Software Verification](https://www.csie.ntu.edu.tw/app/news.php?Sn=11874)
 
 # schedule 2015
 * Jan 19 / JuluOS: [向 Multics 學習：那個在你出生前就存在的作業系統，到底帶來哪些創新？](http://juluosdev.kktix.cc/events/d7cc0d15-0cba9a-eb5d0a-2f7415)
