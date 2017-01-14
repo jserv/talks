@@ -4,7 +4,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
 * Jan 16 / 台大資工: [開源系統軟體：實務經驗](http://pas.csie.ntu.edu.tw/OSSSEED)
 * Jan 23 / 成大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
-* Jan 23 / 台大資工: [開源系統軟體：實務經驗](http://pas.csie.ntu.edu.tw/OSSSEED)
+* Jan 23 / 成大資工: [開源系統軟體：實務經驗](http://pas.csie.ntu.edu.tw/OSSSEED)
 * Feb 4 / FOSDEM: [Secure Microkernel for Deeply Embedded Devices](https://fosdem.org/2017/schedule/track/microkernels_and_component_based_os/)
 
 # schedule 2016
