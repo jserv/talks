@@ -10,6 +10,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 15 / GUTS: [手機裡的 ARM 處理器: 系列講座導論](http://hackfoldr.org/arm)
 * Mar 20 / GUTS: [你所不知道的 C 語言：技巧篇](http://hackfoldr.org/dykc)
 * Mar 22 / GUTS: [手機裡的 ARM 處理器: 架構和指令集](http://hackfoldr.org/arm)
+* Mar 27 / GUTS: [作業系統概念: Concurrency 程式設計篇](http://hackfoldr.org/oscar/)
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
