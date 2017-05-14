@@ -17,6 +17,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 17 / GUTS: [從打造類似 Facebook 網路服務探討整合開發](https://www.facebook.com/events/777590162408486/)
 * Apr 19 / NTU: [Formal Verification in practice: system software perspective](https://www.csie.ntu.edu.tw/app/news.php?Sn=12468)
 * May 20 / MOSUT: Piko/RT: Linux-like Real-time Kernel for ARM Microcontrollers
+* Jun 11 / PyCon: [PyPy's approach to construct domain-specific language runtime](https://tw.pycon.org/2017/en-us/events/talk/347808212868661376/)
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
