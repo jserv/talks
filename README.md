@@ -16,6 +16,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 5 / GUTS: [你所不知道的 C 語言：數值系統篇](http://hackfoldr.org/dykc)
 * Apr 17 / GUTS: [從打造類似 Facebook 網路服務探討整合開發](https://www.facebook.com/events/777590162408486/)
 * Apr 19 / NTU: [Formal Verification in practice: system software perspective](https://www.csie.ntu.edu.tw/app/news.php?Sn=12468)
+* May 16 / GUTS: [你所不知道的 C 語言：開發工具和規格標準篇](http://hackfoldr.org/dykc)
 * May 20 / MOSUT: Piko/RT: Linux-like Real-time Kernel for ARM Microcontrollers
 * Jun 11 / PyCon: [PyPy's approach to construct domain-specific language runtime](https://tw.pycon.org/2017/en-us/events/talk/347808212868661376/)
 
