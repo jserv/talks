@@ -3,8 +3,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
 * Jan 16 / 台大資工: [開源系統軟體：實務經驗](http://pas.csie.ntu.edu.tw/OSSSEED)
-* Jan 23 / 成大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
-* Jan 23 / 成大資工: [開源系統軟體：實務經驗](http://pas.csie.ntu.edu.tw/OSSSEED)
+* Jan 23 / 成大資訊: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
+* Jan 23 / 成大資訊: [開源系統軟體：實務經驗](http://pas.csie.ntu.edu.tw/OSSSEED)
 * Feb 4 / FOSDEM: [Secure Microkernel for Deeply Embedded Devices](https://fosdem.org/2017/schedule/event/microkernel_microkernel_for_embedded_devices/)
 * Feb 21 / ELC: [Effectively Measure and Reduce Kernel Latencies for Real-time Constraints](https://openiotelcna2017.sched.com/event/9ItY)
 * Mar 15 / GUTS: [手機裡的 ARM 處理器: 系列講座導論](http://hackfoldr.org/arm)
@@ -15,7 +15,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 29 / GUTS: [手機裡的 ARM 處理器: 基礎指令和開發環境](http://hackfoldr.org/arm)
 * Apr 5 / GUTS: [你所不知道的 C 語言：數值系統篇](http://hackfoldr.org/dykc)
 * Apr 17 / GUTS: [從打造類似 Facebook 網路服務探討整合開發](https://www.facebook.com/events/777590162408486/)
-* Apr 19 / NTU: [Formal Verification in practice: system software perspective](https://www.csie.ntu.edu.tw/app/news.php?Sn=12468)
+* Apr 19 / 台大資工: [Formal Verification in practice: system software perspective](https://www.csie.ntu.edu.tw/app/news.php?Sn=12468)
 * May 16 / GUTS: [你所不知道的 C 語言：開發工具和規格標準篇](http://hackfoldr.org/dykc)
 * May 20 / MOSUT: Piko/RT: Linux-like Real-time Kernel for ARM Microcontrollers
 * Jun 11 / PyCon: [PyPy's approach to construct domain-specific language runtime](https://tw.pycon.org/2017/en-us/events/talk/347808212868661376/)
@@ -51,7 +51,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 8 / 朝陽科大: 開放原始碼生態系統和商業模式
 * Nov 23 / GUTS: [你所不知道的 C 語言：遞迴呼叫篇](http://hackfoldr.org/dykc)
 * Dec 17 / 開源操作系統技術年會: [BitSec: Secure Microkernel](http://soft.cs.tsinghua.edu.cn/os2atc2016/rc.html)
-* Dec 23 / NTU: [Automated Techniques for Formal Software Verification](https://www.csie.ntu.edu.tw/app/news.php?Sn=11874)
+* Dec 23 / 台大資工: [Automated Techniques for Formal Software Verification](https://www.csie.ntu.edu.tw/app/news.php?Sn=11874)
 
 # schedule 2015
 * Jan 19 / JuluOS: [向 Multics 學習：那個在你出生前就存在的作業系統，到底帶來哪些創新？](http://juluosdev.kktix.cc/events/d7cc0d15-0cba9a-eb5d0a-2f7415)
@@ -114,9 +114,9 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 28 / Study-Area: 看影片學自由軟體：從 Revolution OS 分析開放原始碼作業系統生態變化
 * Jul 9 / 清華大學: FOSS and Project Collaboration
 * Jul 11 / 成大資訊營: 用雙手體驗資訊技術：在資訊世界的你我能夠作什麼
-* Jul 15 / 成大資工: Open Source from Legend, Business, to Ecosystem
-* Jul 15 / 成大資工: Perspectives on Internet of Things Development
-* Jul 15 / 成大資工: 淺談系統軟體的效能分析與安全性議題
+* Jul 15 / 成大資訊: Open Source from Legend, Business, to Ecosystem
+* Jul 15 / 成大資訊: Perspectives on Internet of Things Development
+* Jul 15 / 成大資訊: 淺談系統軟體的效能分析與安全性議題
 * Jul 20 / COSCUP: [黑暗中飛翔的程式碼：視障生投入自由軟體開發](http://coscup.org/2014/en/program/)
 * Jul 26 / MOSUT: [Build A Lightweight Hypervisor for Realtime Linux](http://www.meetup.com/Tainan-py-Python-Tainan-User-Group/events/196122862/)
 * Aug 2 / WHSAP: [The Practice about Linux Remote Processor Framework on ARM Cortex-M/A Heterogeneous Environments](http://whsap.csie.ncku.edu.tw/HSA_Workshop/)
@@ -134,7 +134,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Dec 27 / MOSUT: 快快樂樂開發作業系統
 
 # schedule 2013
-* Jan 4 / 成大資工: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
+* Jan 4 / 成大資訊: [從移動運算的變革，看軟體走向開放原始碼發展的思維](http://osc2013.csie.ncku.edu.tw/news.php)
 * Jan 5 / 台中一中 : [你所不知道的 C 語言：破除誤解並尋求精進之道](http://phorum.study-area.org/index.php?topic=68128.0)
 * Jan 21 / 成大電機: [改變，從指尖開始：淺談參與開放原始碼專案開發，作為持續累積的變革力量](https://www.facebook.com/events/516387461734961/?group_id=0)
 * Jan 29 / TOSSUG: [少年 Compiler 的奇幻漂流：淺談編譯器技術的設計與實作](http://registrano.com/events/76f72c)
@@ -143,11 +143,11 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 22 / Embedded Linux Conference: [olibc: Another C Runtime Library for Embedded Linux](http://events.linuxfoundation.org/events/embedded-linux-conference/schedule)
 * Mar 3 / Study-Area Tainan: [從 Binder 理解 Android 系統服務的運作原理](http://phorum.study-area.org/index.php/topic,68304.0.html)
 * Mar 7 / 新竹碼農: [虛擬機器設計與優化的初體驗](http://www.accupass.com/go/hcsm0307)
-* Mar 12 / 成大資工: [從火星探測號談 RTOS scheduling](http://wiki.csie.ncku.edu.tw/embedded/schedule)
+* Mar 12 / 成大資訊: [從火星探測號談 RTOS scheduling](http://wiki.csie.ncku.edu.tw/embedded/schedule)
 * Mar 14 / 中正資工: [從火星探測號談 RTOS scheduling](http://wiki.csie.ncku.edu.tw/embedded/schedule)
 * Mar 16 / SITCON: [作個永遠的大學生：終生學習經驗談](http://sitcon.org/2013/)
 * Mar 27 / JuluOS: [探討 microkernel 三個發展世代 -- 方法與概念](http://registrano.com/events/0d3fc6)
-* Apr 15 / 成大資工: [Microkernel based Operating System Design for Embedded Systems](http://www.slideshare.net/jserv/microkernel-evolution)
+* Apr 15 / 成大資訊: [Microkernel based Operating System Design for Embedded Systems](http://www.slideshare.net/jserv/microkernel-evolution)
 * Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://www.slideshare.net/jserv/education-usingopensource)
 * May 16 / 中正資工: L4 微核心概念與 Fiasco.OC 設計
 * May 27 / Automotive Linux Summit Spring 2013: [Shorten Device Boot time for Automotive IVI and Navigation Systems](http://automotivelinuxsummitspring2013.sched.org/)
@@ -156,25 +156,25 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 6 / 中央資工: [淺談系統軟體的設計缺陷](http://goo.gl/Tlr2A)
 * Jun 29 / 第八屆開源中國開源世界高峰論壇: [參與國際級開源項目經驗談](http://ocow.csdn.net/schedule.html)
 * Jul 4 / MOSUT: 《Binary Hacks》重點提示
-* Jul 5 / 成大資工: [參與開放原始碼發展，作為人生規劃的依據](http://wmmks.csie.ncku.edu.tw/tsoc2013/index.php?option=com_content&view=article&id=25)
+* Jul 5 / 成大資訊: [參與開放原始碼發展，作為人生規劃的依據](http://wmmks.csie.ncku.edu.tw/tsoc2013/index.php?option=com_content&view=article&id=25)
 * Jul 8 / 台北科大: [參與開放原始碼發展，作為人生規劃的依據](http://wmmks.csie.ncku.edu.tw/tsoc2013/index.php?option=com_content&view=article&id=25)
 * Jul 11 / 新竹碼農: [LLVM 總是打開你的心：從電玩模擬器看編譯器應用實例](http://www.accupass.com/go/hcsm0711)
 * Jul 27 / 創業台槓: 南台灣的資料技術交流概況
-* Aug 1 / 成大資工: 暑期嵌入式短期訓練課程 (1)
+* Aug 1 / 成大資訊: 暑期嵌入式短期訓練課程 (1)
 * Aug 2 / Java Developer Day: [從 Maxine VM 理解高效能 Java 虛擬機器運作原理](http://www.codedata.com.tw/event/javaday/2013/)
 * Aug 3 / COSCUP: Design Power-efficient RTOS
 * Aug 3 / COSCUP: [完全使用開放原始碼做嵌入式系統教學:成果介紹](http://www.slideshare.net/jserv/education-usingopensource)
 * Aug 3 / COSCUP: [Xvisor -- embedded and lightweight hypervisor](http://www.slideshare.net/jserv/xvisor)
 * Aug 3 / COSCUP: [F9 microkernel: built for deeply embedded devices elegantly](http://www.slideshare.net/jserv/f9-microkernel)
 * Aug 3 / COSCUP: 工程師究竟在公司做什麼？
-* Aug 8 / 成大資工: 暑期嵌入式短期訓練課程 (2)
-* Aug 15 / 成大資工: 暑期嵌入式短期訓練課程 (3)
-* Aug 22 / 成大資工: 暑期嵌入式短期訓練課程 (4)
+* Aug 8 / 成大資訊: 暑期嵌入式短期訓練課程 (2)
+* Aug 15 / 成大資訊: 暑期嵌入式短期訓練課程 (3)
+* Aug 22 / 成大資訊: 暑期嵌入式短期訓練課程 (4)
 * Aug 28 / JuluOS: [F9 Microkernel: 針對 ARM Cortex-M 平台開發的微核心](http://registrano.com/events/efae55)
-* Aug 29 / 成大資工: 暑期嵌入式短期訓練課程 (5)
+* Aug 29 / 成大資訊: 暑期嵌入式短期訓練課程 (5)
 * Aug 31 / MOSUT: mykernel: 作業系統原理實驗環境
-* Sep 5 / 成大資工: 暑期嵌入式短期訓練課程 (6)
-* Sep 12 / 成大資工: 暑期嵌入式短期訓練課程 (7)
+* Sep 5 / 成大資訊: 暑期嵌入式短期訓練課程 (6)
+* Sep 12 / 成大資訊: 暑期嵌入式短期訓練課程 (7)
 * Oct 17 / 工研院資通所: [Implement Runtime Environments for HSA using LLVM](http://www.slideshare.net/jserv/hsa-llvm)
 * Nov 10 / MiniDebConf2013: [DIY your own quadrotor helicopter](https://wiki.debian.org/DebianTaiwan/MiniDebConf201)
 * Nov 16 / HelloGCC: [Build An Optimized C Runtime for Embedded Linux](http://www.iscas.ac.cn/xwzx/kydt/201311/t20131115_3979276.html)
