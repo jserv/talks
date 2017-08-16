@@ -22,6 +22,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 19 / GUTS: [手機裡的 ARM 處理器：虛擬化技術和應用](http://hackfoldr.org/arm)
 * Jul 14 / 成大資訊: 指尖上的通訊與運算： 技術發展回顧和前瞻
 * Aug 16 / GUTS: [從無到有打造 IoT 作業系統核心：以 Piko/RT 為例](http://hackfoldr.org/oscar)
+* Sep 29 / JCConf: [Ahead-of-Time (AOT) compilation in Java 9](http://jcconf.tw/2017/speaker/jserv.html)
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
