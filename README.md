@@ -23,6 +23,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 14 / 成大資訊: 指尖上的通訊與運算： 技術發展回顧和前瞻
 * Aug 16 / GUTS: [從無到有打造 IoT 作業系統核心：以 Piko/RT 為例](http://hackfoldr.org/oscar)
 * Aug 22 / GUTS: [手機裡的 ARM 處理器: Cortex-M](ttp://hackfoldr.org/arm)
+* Sep 11 / OSS-NA: Deterministic Memory Allocation for Mission-Critical Linux
+* Sep 13 / OSS-NA: Build Cloud Infrastructure with ARMv8
 * Sep 29 / JCConf: [Ahead-of-Time (AOT) compilation in Java 9](http://jcconf.tw/2017/speaker/jserv.html)
 
 # schedule 2016
