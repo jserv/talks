@@ -20,7 +20,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 20 / MOSUT: Piko/RT: Linux-like Real-time Kernel for ARM Microcontrollers
 * Jun 11 / PyCon: [PyPy's approach to construct domain-specific language runtime](https://tw.pycon.org/2017/en-us/events/talk/347808212868661376/)
 * Jun 19 / GUTS: [手機裡的 ARM 處理器：虛擬化技術和應用](http://hackfoldr.org/arm)
-* Jul 14 / 成大資訊: 指尖上的通訊與運算： 技術發展回顧和前瞻
+* Jul 14 / 成大資訊: [指尖上的通訊與運算： 技術發展回顧和前瞻](https://hackmd.io/s/BJ1gF_GBb)
 * Aug 16 / GUTS: [從無到有打造 IoT 作業系統核心：以 Piko/RT 為例](http://hackfoldr.org/oscar)
 * Aug 22 / GUTS: [手機裡的 ARM 處理器: Cortex-M](http://hackfoldr.org/arm)
 * Sep 11 / OSS-NA: [Deterministic Memory Allocation for Mission-Critical Linux](https://ossna2017.sched.com/event/BCsR/deterministic-memory-allocation-for-mission-critical-linux-jim-huang-south-star-xelerator-keng-fu-hsu-national-cheng-kung-university)
