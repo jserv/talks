@@ -26,6 +26,10 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Sep 11 / OSS-NA: [Deterministic Memory Allocation for Mission-Critical Linux](https://ossna2017.sched.com/event/BCsR/deterministic-memory-allocation-for-mission-critical-linux-jim-huang-south-star-xelerator-keng-fu-hsu-national-cheng-kung-university)
 * Sep 13 / OSS-NA: [Build Cloud Infrastructure with ARMv8](https://ossna2017.sched.com/event/BDqU/build-cloud-infrastructure-with-cheap-arm-boards-jim-huang-south-star-xelerator-yu-chiang-huang-national-chiao-tung-university)
 * Sep 29 / JCConf: [Ahead-of-Time (AOT) compilation in Java 9](http://jcconf.tw/2017/speaker/jserv.html)
+* Oct 3 / GUTS: [現代處理器原理和關鍵特徵 (上)](https://hackmd.io/s/Hk2CscGcl)
+* Oct 5 / GUTS: [現代處理器原理和關鍵特徵 (下)](https://hackmd.io/s/Hk2CscGcl)
+* Oct 10 / GUTS: [你所不知道的 C 語言：編譯器和最佳化原理篇 (上)](http://hackfoldr.org/dykc)
+* Oct 12 / GUTS: [你所不知道的 C 語言：編譯器和最佳化原理篇 (上)](http://hackfoldr.org/dykc)
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
