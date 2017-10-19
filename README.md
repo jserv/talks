@@ -30,6 +30,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 5 / GUTS: [現代處理器原理和關鍵特徵 (下)](https://hackmd.io/s/Hk2CscGcl)
 * Oct 10 / GUTS: [你所不知道的 C 語言：編譯器和最佳化原理篇 (上)](http://hackfoldr.org/dykc)
 * Oct 12 / GUTS: [你所不知道的 C 語言：編譯器和最佳化原理篇 (上)](http://hackfoldr.org/dykc)
+* Oct 19 / 成大資訊: 開放原始碼軟體生態系統與文化
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
