@@ -34,6 +34,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 24 / GUTS: [你所不知道的 C 語言: 函式呼叫篇](http://hackfoldr.org/dykc)
 * Oct 26 / GUTS: [現代處理器設計: cache 原理和多核心議題](http://hackfoldr.org/cpu)
 * Oct 29 / MOPCON: [透過區塊鏈打造行動化數位證書](https://mopcon.org/2017/schedule.php)
+* Nov 23 / ITRI: 當微型支付遇上物聯網：從硬體廠商到營運商的轉型機會
+* Nov 23 / [區塊鏈愛好者大會](http://taiwanchain.info/): 證書區塊鏈
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
