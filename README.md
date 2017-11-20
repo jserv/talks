@@ -38,6 +38,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 16 / CCNS: [針對物聯網裝置的身份識別和微型支付](https://ccns.kktix.cc/events/jserv-iot-micropayment)
 * Nov 23 / ITRI: 當微型支付遇上物聯網：從硬體廠商到營運商的轉型機會
 * Nov 23 / [區塊鏈愛好者大會](http://taiwanchain.info/): 證書區塊鏈
+* Dec 10 / DigitalOcean Hsinchu: GNU/Linux 中文資訊化和開放原始碼生態發展
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
