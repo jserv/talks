@@ -36,6 +36,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 29 / MOPCON: [透過區塊鏈打造行動化數位證書](https://mopcon.org/2017/schedule.php)
 * Nov 16 / 成大資訊: 開源生態圈與軟體設計思維
 * Nov 16 / CCNS: [針對物聯網裝置的身份識別和微型支付](https://ccns.kktix.cc/events/jserv-iot-micropayment)
+* Nov 21 / GUTS: [你所不知道的 C 語言: goto 和流程控制篇](http://hackfoldr.org/dykc)
 * Nov 23 / ITRI: 當微型支付遇上物聯網：從硬體廠商到營運商的轉型機會
 * Nov 23 / [區塊鏈愛好者大會](http://taiwanchain.info/): 證書區塊鏈
 * Dec 10 / DigitalOcean Hsinchu: GNU/Linux 中文資訊化和開放原始碼生態發展
