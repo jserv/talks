@@ -42,6 +42,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 21 / GUTS: [你所不知道的 C 語言: goto 和流程控制篇](http://hackfoldr.org/dykc)
 * Nov 23 / ITRI: 當微型支付遇上物聯網：從硬體廠商到營運商的轉型機會
 * Nov 23 / [區塊鏈愛好者大會](http://taiwanchain.info/): 證書區塊鏈
+* Dec 6 / 科技部: 打造以區塊鏈為基礎的電子病歷系統
 * Dec 10 / DigitalOcean Hsinchu: GNU/Linux 中文資訊化和開放原始碼生態發展
 
 # schedule 2016
