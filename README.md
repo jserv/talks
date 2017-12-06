@@ -44,6 +44,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 23 / [區塊鏈愛好者大會](http://taiwanchain.info/): 證書區塊鏈
 * Dec 6 / 科技部: 打造以區塊鏈為基礎的電子病歷系統
 * Dec 10 / DigitalOcean Hsinchu: GNU/Linux 中文資訊化和開放原始碼生態發展
+* Dec 11 / NCKU: Distributed Computing in the Shared Economy
 
 # schedule 2016
 * Jan 9 / 交大資工: 自由軟體和開放原始碼生態：程式碼如何滲透你我的生活、商業模式，以及生態圈概況
