@@ -1,7 +1,7 @@
 Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
 
 # schedule 2018
-* Jan 8 / ROS.Taipei: 淺談自動駕駛：從地表到太空
+* Jan 7 / ROS.Taipei: 淺談自動駕駛：從地表到太空
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
