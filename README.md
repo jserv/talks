@@ -63,7 +63,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 18 / 清大資工: [從作業系統的演化談 IoT 設計挑戰](http://web.cs.nthu.edu.tw/files/14-1015-103326,r67-1.php?Lang=zh-tw)
 * May 19 / 清大資工: 開放原始碼的生態系統與商業模式
 * May 24 / GUTS: [PREEMPT_RT - 朝向硬即時的 Linux 核心機制](http://hackfoldr.org/oscar/)
-* Jun 3 / PyCon: [Python 導入系統軟體教學](Python 導入系統軟體教學)
+* Jun 3 / PyCon: [Python 導入系統軟體教學](https://tw.pycon.org/2016/zh-hant/events/keynotes/))
 * Jun 14 / 高應大: 淺談作業系統發展(科普觀點)
 * Jun 20 / 清大資工: Secure hypervisor / microkernel for IoT
 * Jun 25 / HKOSCon: [回顧台灣自由開源軟體發展](http://2016.opensource.hk/topics/free-and-open-source-software-involvement-in-taiwan/)
