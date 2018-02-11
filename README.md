@@ -5,7 +5,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 14 / 科學人: 奠定資訊工業基礎建設的自由軟體和開放原始碼
 * Jan 30 / GUTS: [你所不知道的 C 語言: linked-list 和非連續記憶體存取](http://hackfoldr.org/dykc)
 * Feb 5 / GUTS: [你所不知道的 C 語言: 指標篇(上)](http://hackfoldr.org/dykc)
-* Feb 6 / GUTS: [你所不知道的 C 語言: 指標篇(下)](http://hackfoldr.org/dykc)
+* Feb 12 / GUTS: [你所不知道的 C 語言: 指標篇(下)](http://hackfoldr.org/dykc)
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
