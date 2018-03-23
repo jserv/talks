@@ -7,6 +7,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 5 / GUTS: [你所不知道的 C 語言: 指標篇(上)](http://hackfoldr.org/dykc)
 * Feb 12 / GUTS: [你所不知道的 C 語言: 指標篇(下)](http://hackfoldr.org/dykc)
 * Mar 21 / GUTS: [你所不知道的 C 語言: Stream I/O 與 EOF](http://hackfoldr.org/dykc)
+* Mar 30 / 暨大資工: 當微型支付遇上物聯網：從硬體廠商到營運商的轉型機會
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
