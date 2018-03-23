@@ -6,7 +6,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 30 / GUTS: [你所不知道的 C 語言: linked-list 和非連續記憶體存取](http://hackfoldr.org/dykc)
 * Feb 5 / GUTS: [你所不知道的 C 語言: 指標篇(上)](http://hackfoldr.org/dykc)
 * Feb 12 / GUTS: [你所不知道的 C 語言: 指標篇(下)](http://hackfoldr.org/dykc)
-* Mar 21 / GUTS: [你所不知道的 C 語言: Stream I/O 與 ELF](http://hackfoldr.org/dykc)
+* Mar 21 / GUTS: [你所不知道的 C 語言: Stream I/O 與 EOF](http://hackfoldr.org/dykc)
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
