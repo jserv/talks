@@ -10,7 +10,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 30 / 暨大資工: 當微型支付遇上物聯網：從硬體廠商到營運商的轉型機會
 * Apr 20 / 中山資工: [文 C 雕龍：經典 C 程式設計典範賞析](http://cse.nsysu.edu.tw/files/14-1091-184101,r3315-1.php?Lang=zh-tw)
 * May 19 / AII: [社交網路和區塊鏈的應用：以 Ptt.ai 為例](https://aliensunmin.github.io/aii_workshop/2nd/)
-* May 30 / CTHPC: [Intelligence × Compiler × Contract](https://sites.google.com/view/cthpc2018/program)
+* May 31 / CTHPC: [Intelligence × Compiler × Contract](https://sites.google.com/view/cthpc2018/program)
 * Jun 1 / CTHPC: [A Spin-based model checking for the simple concurrent program on a preemptive RTOS](https://sites.google.com/view/cthpc2018/program)
 
 # schedule 2017
