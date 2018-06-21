@@ -12,6 +12,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 19 / AII: [社交網路和區塊鏈的應用：以 Ptt.ai 為例](https://aliensunmin.github.io/aii_workshop/2nd/)
 * May 31 / CTHPC: [Intelligence × Compiler × Contract](https://sites.google.com/view/cthpc2018/program)
 * Jun 1 / CTHPC: [A Spin-based model checking for the simple concurrent program on a preemptive RTOS](https://sites.google.com/view/cthpc2018/program)
+* Jun 21 / 成大資訊: 藏身在區塊鏈的特製程式語言執行環境
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
