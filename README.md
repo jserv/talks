@@ -14,6 +14,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 1 / CTHPC: [A Spin-based model checking for the simple concurrent program on a preemptive RTOS](https://sites.google.com/view/cthpc2018/program)
 * Jun 21 / 成大資訊: 藏身在區塊鏈的特製程式語言執行環境
 * Jul 16 / 成大電機: 以「做中學」的態度探索電腦系統
+* Jul 21 / LASS: 以分散式帳本技術降低維運成本並創造經濟誘因
 * Jul 28 / DebConf: 當 TangleID 遇上台北市政府: 自由軟體如何改善公部門處理流程
 
 # schedule 2017
