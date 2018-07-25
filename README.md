@@ -16,6 +16,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 16 / 成大電機: 以「做中學」的態度探索電腦系統
 * Jul 17 / GUTS: [你所不知道的 C 語言: Undefined Behavior](http://hackfoldr.org/dykc)
 * Jul 21 / LASS: 以分散式帳本技術降低維運成本並創造經濟誘因
+* Jul 27 / GUTS: [你所不知道的 C 語言：遞迴呼叫篇](http://hackfoldr.org/dykc)
 * Jul 28 / DebConf: 當 TangleID 遇上台北市政府: 自由軟體如何改善公部門處理流程
 
 # schedule 2017
