@@ -18,6 +18,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 21 / LASS: 以分散式帳本技術降低維運成本並創造經濟誘因
 * Jul 27 / GUTS: [你所不知道的 C 語言：遞迴呼叫篇](http://hackfoldr.org/dykc)
 * Jul 28 / DebConf: [當 TangleID 遇上台北市政府: 自由軟體如何改善公部門處理流程](https://wiki.debconf.org/wiki/DebConf18/OpenDay#Conference_Room_4)
+* Oct 23 / OSS-EU: [Linux-based RTOS Experimental Platform for Constructing Self-driving Vehicles](http://sched.co/FxWG)
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
