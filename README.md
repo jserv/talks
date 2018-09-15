@@ -21,6 +21,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Aug 23 / ITRI: 即時 Linux 核心原理和實務
 * Aug 25 / GUTS: [AMaCC: 用 1500 行建構可自我編譯的 C 編譯器](http://hackfoldr.org/dykc)
 * Sep 9 / 成大資工: [系統軟體短期課程](https://hackmd.io/s/rkJfYQLvX)
+* Sep 17 / GUTS: [你所不知道的 C 語言: 物件導向篇](http://hackfoldr.org/dykc)
 * Oct 23 / OSS-EU: [Linux-based RTOS Experimental Platform for Constructing Self-driving Vehicles](http://sched.co/FxWG)
 
 # schedule 2017
