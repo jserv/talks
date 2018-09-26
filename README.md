@@ -25,6 +25,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Sep 20 / GUTS: [你所不知道的 C 語言: 物件導向篇(下)](http://hackfoldr.org/dykc)
 * Oct 1 / BOT: [以區塊鏈翻轉能源市場](http://botcommunity.org/)
 * Oct 7 / g0v: [降低群眾感測器的營運成本及提高經濟誘因](https://summit.g0v.tw/2018/agenda/)
+* Oct 20 / COSCON: [作為泛用服務的數字身份識別](http://coscon.kaiyuanshe.cn/)
 * Oct 23 / OSS-EU: [Linux-based RTOS Experimental Platform for Constructing Self-driving Vehicles](http://sched.co/FxWG)
 * Nov 4 / MOPCON: [ 智慧電網背後的軟體建設](https://mopcon.org/2018/schedule.php)
 
