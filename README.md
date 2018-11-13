@@ -31,6 +31,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Oct 20 / COSCON: [作為泛用服務的數字身份識別](http://coscon.kaiyuanshe.cn/)
 * Oct 23 / OSS-EU: [Linux-based RTOS Experimental Platform for Constructing Self-driving Vehicles](http://sched.co/FxWG)
 * Nov 4 / MOPCON: [智慧電網背後的軟體建設](https://mopcon.org/2018/schedule.php)
+* Nov 15 / GUTS: Linux 核心設計: 透過 eBPF 觀察作業系統行為
 * Nov 22 / 區塊鏈愛好者年會: 非同步跨鏈通訊協定的實作環境 (Asynchronous Inter-Blockchain Protocol)
 * Dec 5 / 高雄科大: [大學文憑有用嗎？洗學歷之前，請你審視所處的世界](http://aais15.nkfust.edu.tw/web_signup/login.jsp?SNO=50948)
 
