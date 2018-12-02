@@ -36,6 +36,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Nov 22 / GUTS: [Linux 核心設計: 淺談同步機制](http://hackfoldr.org/linux)
 * Dec 5 / 高雄科大: [大學文憑有用嗎？洗學歷之前，請你審視所處的世界](http://aais15.nkfust.edu.tw/web_signup/login.jsp?SNO=50948)
 * Dec 6 / ThinkBlock: 區塊鏈彰顯系統軟體的價值：淺談編譯器、虛擬機器，及形式化驗證的影響
+* Dec 7 / GUTS: [Linux 核心設計: 賦予應用程式生命的系統呼叫](http://hackfoldr.org/linux)
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
