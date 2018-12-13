@@ -37,6 +37,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Dec 5 / 高雄科大: [大學文憑有用嗎？洗學歷之前，請你審視所處的世界](http://aais15.nkfust.edu.tw/web_signup/login.jsp?SNO=50948)
 * Dec 6 / ThinkBlock: 區塊鏈彰顯系統軟體的價值：淺談編譯器、虛擬機器，及形式化驗證的影響
 * Dec 7 / GUTS: [Linux 核心設計: 賦予應用程式生命的系統呼叫](http://hackfoldr.org/linux)
+* Dec 15 / GUTS: [Linux 核心設計: 不僅是個執行單元的 Process](http://hackfoldr.org/linux)
 * Dec 22 / IOTA愛好者聚會: [IOTA 應用的挑戰和機會](https://alysida.kktix.cc/events/iota-meetup-final-2018)
 
 # schedule 2017
