@@ -38,6 +38,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Dec 6 / ThinkBlock: 區塊鏈彰顯系統軟體的價值：淺談編譯器、虛擬機器，及形式化驗證的影響
 * Dec 7 / GUTS: [Linux 核心設計: 賦予應用程式生命的系統呼叫](http://hackfoldr.org/linux)
 * Dec 15 / GUTS: [Linux 核心設計: 不僅是個執行單元的 Process](http://hackfoldr.org/linux)
+* Dec 25 / CCNS: [成大校園的自動駕駛車](https://ccns.kktix.cc/events/107-meetup-self-driving-car-in-ncku)
+
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
