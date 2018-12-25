@@ -39,6 +39,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Dec 7 / GUTS: [Linux 核心設計: 賦予應用程式生命的系統呼叫](http://hackfoldr.org/linux)
 * Dec 15 / GUTS: [Linux 核心設計: 不僅是個執行單元的 Process](http://hackfoldr.org/linux)
 * Dec 25 / CCNS: [成大校園的自動駕駛車](https://ccns.kktix.cc/events/107-meetup-self-driving-car-in-ncku)
+* Dec 27 / GUTS: [Linux 核心設計: 多核處理器和 spinlock](http://hackfoldr.org/linux)
 
 
 # schedule 2017
