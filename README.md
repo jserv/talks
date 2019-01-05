@@ -1,5 +1,9 @@
 Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
 
+# schedule 2019
+* Jan 7 / GUTS: [Linux 核心設計: RCU 同步機制](http://hackfoldr.org/linux)
+
+
 # schedule 2018
 * Jan 7 / ROS.Taipei: 淺談自動駕駛：從地表到太空
 * Jan 14 / 科學人: 奠定資訊工業基礎建設的自由軟體和開放原始碼
