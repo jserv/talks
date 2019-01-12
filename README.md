@@ -3,6 +3,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 # schedule 2019
 * Jan 7 / GUTS: [Linux 核心設計: RCU 同步機制(上)](http://hackfoldr.org/linux)
 * Jan 11 / GUTS: [Linux 核心設計: RCU 同步機制(下)](http://hackfoldr.org/linux)
+* Jan 14 / GUTS: [Linux 核心設計: 中斷處理和現代架構考量](http://hackfoldr.org/linux)
 
 
 # schedule 2018
