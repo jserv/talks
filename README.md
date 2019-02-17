@@ -6,6 +6,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 14 / GUTS: [Linux 核心設計: 中斷處理和現代架構考量 (上)](http://hackfoldr.org/linux)
 * Jan 29 / BITS: [建構在區塊鏈之上的數位身分及資產管理](https://www.facebook.com/events/141219160109691/)
 * Feb 13 / GUTS: [Linux 核心設計: 中斷處理和現代架構考量 (下)](http://hackfoldr.org/linux)
+* Feb 18 / GUTS: [Linux 核心設計: 線上/實體課程說明](http://hackfoldr.org/linux)
 
 
 # schedule 2018
