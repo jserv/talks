@@ -8,6 +8,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 13 / GUTS: [Linux 核心設計: 中斷處理和現代架構考量 (下)](http://hackfoldr.org/linux)
 * Feb 18 / GUTS: [Linux 核心設計: 線上/實體課程說明](http://hackfoldr.org/linux)
 * Feb 24 / GUTS: [你所不知道的 C 語言: 連結器及執行檔資訊](http://hackfoldr.org/dykc)
+* Feb 25 / GUTS: [Linux 核心設計: 第 1 + 2 週作業說明](http://wiki.csie.ncku.edu.tw/linux/schedule)
 
 
 # schedule 2018
