@@ -11,6 +11,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 25 / GUTS: [Linux 核心設計: 第 1 + 2 週作業說明](http://wiki.csie.ncku.edu.tw/linux/schedule)
 * Mar 4 / GUTS: [Linux 核心設計: 不只挑選任務的排程器 (一)](http://hackfoldr.org/linux)
 * Mar 24 / GUTS: [Linux 核心設計: 第 4 + 5 週作業說明](http://wiki.csie.ncku.edu.tw/linux/schedule)
+* Mar 25 / GUTS: [Linux 核心設計: 不只挑選任務的排程器 (二)](http://hackfoldr.org/linux)
 
 
 # schedule 2018
