@@ -13,6 +13,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 24 / GUTS: [Linux 核心設計: 第 4 + 5 週作業說明](http://wiki.csie.ncku.edu.tw/linux/schedule)
 * Mar 26 / GUTS: [Linux 核心設計: 不只挑選任務的排程器 (二)](http://hackfoldr.org/linux)
 * Apr 11 / GUTS: [Linux 核心設計: 記憶體管理 (1)](http://hackfoldr.org/linux)
+* Apr 14 / GUTS: [Linux 核心設計: 記憶體管理 (2)](http://hackfoldr.org/linux)
 * Apr 22 / GUTS: [你所不知道的 C 語言: Stream I/O, EOF 和例外處理](http://hackfoldr.org/dykc)
 
 
