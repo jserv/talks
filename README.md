@@ -17,6 +17,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Apr 22 / GUTS: [你所不知道的 C 語言: Stream I/O, EOF 和例外處理](http://hackfoldr.org/dykc)
 * May 7 / GUTS: [Linux 核心設計: 朝向硬即時的核心變革 (上)](http://hackfoldr.org/linux)
 * May 15 / GUTS: [Linux 核心設計: 朝向硬即時的核心變革 (下)](http://hackfoldr.org/linux)
+* May 24 / CTHPC: [Formal Verification for Blockchain and Trusted Computing](https://sites.google.com/view/cthpc2019)
 
 
 # schedule 2018
