@@ -18,7 +18,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 7 / GUTS: [Linux 核心設計: 朝向硬即時的核心變革 (上)](http://hackfoldr.org/linux)
 * May 15 / GUTS: [Linux 核心設計: 朝向硬即時的核心變革 (下)](http://hackfoldr.org/linux)
 * May 24 / CTHPC: [Formal Verification for Blockchain and Trusted Computing](https://sites.google.com/view/cthpc2019)
-* May 27 / GUTS: [inux 核心設計: 檔案系統概念及實作手法](http://hackfoldr.org/linux)
+* May 27 / GUTS: [Linux 核心設計: 檔案系統概念及實作手法](http://hackfoldr.org/linux)
 
 
 # schedule 2018
