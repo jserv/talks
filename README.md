@@ -20,6 +20,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 24 / CTHPC: [Formal Verification for Blockchain and Trusted Computing](https://sites.google.com/view/cthpc2019)
 * May 27 / GUTS: [Linux 核心設計: 檔案系統概念及實作手法](http://hackfoldr.org/linux)
 * Jun 13 / AWS: [Why Decentralized Identifiers Are Changing the Future Internet?](https://aws.amazon.com/tw/summits/taipei/agenda-day-2/)
+* Jun 17 / GUTS: [Linux 核心設計: Timer 及其管理機制](http://hackfoldr.org/linux)
 
 
 # schedule 2018
