@@ -21,6 +21,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * May 27 / GUTS: [Linux 核心設計: 檔案系統概念及實作手法](http://hackfoldr.org/linux)
 * Jun 13 / AWS: [Why Decentralized Identifiers Are Changing the Future Internet?](https://aws.amazon.com/tw/summits/taipei/agenda-day-2/)
 * Jun 17 / GUTS: [Linux 核心設計: Timer 及其管理機制](http://hackfoldr.org/linux)
+* Jul 1 / GUTS: [Linux 核心設計: 記憶體管理 (3)](http://hackfoldr.org/linux)
 * Jul 11 / InfoSec: [引入去中心化身份識別機制來重構安全和隱私設計](http://2019.infosec.org.tw)
 
 
