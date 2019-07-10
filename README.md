@@ -23,6 +23,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jun 17 / GUTS: [Linux 核心設計: Timer 及其管理機制](http://hackfoldr.org/linux)
 * Jul 1 / GUTS: [Linux 核心設計: 記憶體管理 (3)](http://hackfoldr.org/linux)
 * Jul 11 / InfoSec: [引入去中心化身份識別機制來重構安全和隱私設計](http://2019.infosec.org.tw)
+* Jul 11 / GUTS: [你所不知道的 C 語言: 技巧篇](http://hackfoldr.org/dykc)
 
 
 # schedule 2018
