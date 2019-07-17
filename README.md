@@ -25,6 +25,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 11 / InfoSec: [引入去中心化身份識別機制來重構安全和隱私設計](http://2019.infosec.org.tw)
 * Jul 11 / GUTS: [你所不知道的 C 語言: 技巧篇](http://hackfoldr.org/dykc)
 * Jul 15 / 成大電機: 自動駕駛的發展
+* Jul 17 / GUTS: [Linux 核心設計: Scalability 議題](http://hackfoldr.org/linux)
 
 
 # schedule 2018
