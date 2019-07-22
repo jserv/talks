@@ -27,7 +27,6 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 15 / 成大電機: 自動駕駛的發展
 * Jul 17 / GUTS: [Linux 核心設計: Scalability 議題](http://hackfoldr.org/linux)
 
-
 # schedule 2018
 * Jan 7 / ROS.Taipei: 淺談自動駕駛：從地表到太空
 * Jan 14 / 科學人: 奠定資訊工業基礎建設的自由軟體和開放原始碼
@@ -68,7 +67,6 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Dec 15 / GUTS: [Linux 核心設計: 不僅是個執行單元的 Process](http://hackfoldr.org/linux)
 * Dec 25 / CCNS: [成大校園的自動駕駛車](https://ccns.kktix.cc/events/107-meetup-self-driving-car-in-ncku)
 * Dec 27 / GUTS: [Linux 核心設計: 多核處理器和 spinlock](http://hackfoldr.org/linux)
-
 
 # schedule 2017
 * Jan 16 / 台大資工: [開源系統軟體文化與重要性](http://pas.csie.ntu.edu.tw/OSSSEED)
