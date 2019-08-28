@@ -26,7 +26,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jul 11 / GUTS: [你所不知道的 C 語言: 技巧篇](http://hackfoldr.org/dykc)
 * Jul 15 / 成大電機: 自動駕駛的發展
 * Jul 17 / GUTS: [Linux 核心設計: Scalability 議題](http://hackfoldr.org/linux)
-* Aug 26 / GUTS: [你所不知道的 C 語言：數值系統篇](http://hackfoldr.org/dykc)
+* Aug 26 / GUTS: [你所不知道的 C 語言：數值系統篇 (上)](http://hackfoldr.org/dykc)
+* Aug 29 / GUTS: [你所不知道的 C 語言：數值系統篇 (下)](http://hackfoldr.org/dykc)
 
 # schedule 2018
 * Jan 7 / ROS.Taipei: 淺談自動駕駛：從地表到太空
