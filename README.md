@@ -1,5 +1,8 @@
 Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
 
+# schedule 2020
+* Feb 8 / GUTS: Linux 核心設計: 以 User-Mode-Linux 進行開發及系統分析](http://hackfoldr.org/linux)
+
 # schedule 2019
 * Jan 7 / GUTS: [Linux 核心設計: RCU 同步機制(上)](http://hackfoldr.org/linux)
 * Jan 11 / GUTS: [Linux 核心設計: RCU 同步機制(下)](http://hackfoldr.org/linux)
