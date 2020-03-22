@@ -6,6 +6,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Feb 21 / GUTS: [你所不知道的 C 語言: bitwise 操作](https://hackmd.io/@sysprog/c-prog)
 * Mar 2 / GUTS: [Linux 核心設計: 作業系統術語及概念](https://beta.hackfoldr.org/linux/)
 * Mar 9 / GUTS: [你所不知道的 C 語言: 浮點數運算](https://hackmd.io/@sysprog/c-prog)
+* Mar 18 / GUTS: [Linux 核心設計: Code Review I](https://hackmd.io/@sysprog/linux2020-homework1)
+* Mar 23 / GUTS: [Linux 核心設計: Code Review II](https://hackmd.io/@sysprog/linux2020-homework2)
 
 # schedule 2019
 * Jan 7 / GUTS: [Linux 核心設計: RCU 同步機制(上)](https://beta.hackfoldr.org/linux)
