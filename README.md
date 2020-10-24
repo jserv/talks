@@ -10,6 +10,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 23 / GUTS: [Linux 核心設計: Code Review II](https://hackmd.io/@sysprog/linux2020-homework2)
 * May 23 / GUTS: [Linux 核心設計: 發展動態回顧](https://beta.hackfoldr.org/linux)
 * Sep 5 / GUTS: [進階電腦系統理論與實作: 線上/實體課程說明](https://beta.hackfoldr.org/linux)
+* Oct 25 / GUTS: [Linux 核心設計: 檔案系統概念及實作手法](https://hackmd.io/@sysprog/linux-kernel-internal)
 
 # schedule 2019
 * Jan 7 / GUTS: [Linux 核心設計: RCU 同步機制(上)](https://beta.hackfoldr.org/linux)
