@@ -4,6 +4,8 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Jan 11 / GUTS: [並行和多執行緒程式設計 (1)](https://hackmd.io/@sysprog/concurrency)
 * Jan 18 / GUTS: [並行和多執行緒程式設計 (2)](https://hackmd.io/@sysprog/concurrency)
 * Jab 25 / GUTS: [並行和多執行緒程式設計 (3)](https://hackmd.io/@sysprog/concurrency)
+* Feb 17 / GUTS: [Linux 核心設計 (2021): 線上/實體課程說明](https://beta.hackfoldr.org/linux)
+* Feb 18 / GUTS: [並行和多執行緒程式設計 (4)](https://hackmd.io/@sysprog/concurrency)
 * Mar 3 / NTHU: The Evolution of Linux Kernel
 
 # schedule 2020
