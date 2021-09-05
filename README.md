@@ -11,6 +11,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 * Mar 3 / NTHU: [The Evolution and Industrial Impacts of Linux Kernel](http://web.cs.nthu.edu.tw/p/406-1174-198035,r67.php)
 * Mar 11 / GUTS: [並行和多執行緒程式設計 (7)](https://hackmd.io/@sysprog/concurrency)
 * May 27 / CTHPC: [Making Shared Data Routable on ccNUMA Processors by Extracting "Send-Receive" Information from Spinlocks](https://sites.google.com/view/cthpc2021/program)
+* Jul 31 / COSCUP: [Let's Publish a Collaborative e-Book for Linux Kernel](https://coscup.org/2021/zh-TW/session/W8WLDX)
 
 # schedule 2020
 * Feb 8 / GUTS: [Linux 核心設計: 以 User-Mode-Linux 進行開發及系統分析](https://beta.hackfoldr.org/linux)
