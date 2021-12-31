@@ -1,4 +1,7 @@
-Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
+Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
+
+# schedule 2022
+* Jan 2 / GUTS: [你所不知道的 C 語言: linked list 和非連續記憶體存取](https://hackmd.io/@sysprog/c-prog)
 
 # schedule 2021
 * Jan 11 / GUTS: [並行和多執行緒程式設計 (1)](https://hackmd.io/@sysprog/concurrency)
@@ -61,7 +64,7 @@ Presentations of Jim Huang (a.k.a. "jserv"). Welcome to send speech invitations 
 # schedule 2018
 * Jan 7 / ROS.Taipei: 淺談自動駕駛：從地表到太空
 * Jan 14 / 科學人: 奠定資訊工業基礎建設的自由軟體和開放原始碼
-* Jan 30 / GUTS: [你所不知道的 C 語言: linked-list 和非連續記憶體存取](https://hackmd.io/@sysprog/c-prog)
+* Jan 30 / GUTS: [你所不知道的 C 語言: linked list 和非連續記憶體存取](https://hackmd.io/@sysprog/c-prog)
 * Feb 5 / GUTS: [你所不知道的 C 語言: 指標篇(上)](https://hackmd.io/@sysprog/c-prog)
 * Feb 12 / GUTS: [你所不知道的 C 語言: 指標篇(下)](https://hackmd.io/@sysprog/c-prog)
 * Mar 21 / GUTS: [你所不知道的 C 語言: Stream I/O 與 EOF](https://hackmd.io/@sysprog/c-prog)
