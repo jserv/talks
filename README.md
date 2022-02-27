@@ -5,6 +5,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Jan 7 / GUTS: [你所不知道的 C 語言: 函式呼叫篇](https://hackmd.io/@sysprog/c-prog)
 * Feb 12 / GUTS: [Linux 核心設計/實作 (2022): 課程說明](https://hackmd.io/@sysprog/linux-kernel-internal)
 * Feb 21 / GUTS: [你所不知道的 C 語言: 前置處理器應用篇](https://hackmd.io/@sysprog/c-prog)
+* Feb 28 / GUTS: [Linux 核心設計: 發展動態回顧](https://beta.hackfoldr.org/linux)
 
 # schedule 2021
 * Jan 11 / GUTS: [並行和多執行緒程式設計 (1)](https://hackmd.io/@sysprog/concurrency)
