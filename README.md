@@ -9,6 +9,8 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Apr 5 / GUTS: [Linux 核心設計: 不只挑選任務的排程器 (中)](https://hackmd.io/@sysprog/linux-kernel-internal)
 * Apr 9 / GUTS: [Linux 核心設計: 不只挑選任務的排程器 (下)](https://hackmd.io/@sysprog/linux-kernel-internal)
 * Apr 11 / GUTS: [Linux 核心設計: 針對事件導向的 I/O 模型演化](https://hackmd.io/@sysprog/linux-kernel-internal)
+* May 27 / CTHPC: [Towards Fine-grained Behavior-based Analysis for Linux CPU Scheduler](https://sites.google.com/view/cthpc2022/program)
+* May 27 / CTHPC: [An Asynchronous I/O Interface for Scalable and Low-Latency Network Services](https://sites.google.com/view/cthpc2022/program)
 
 # schedule 2021
 * Jan 11 / GUTS: [並行和多執行緒程式設計 (1)](https://hackmd.io/@sysprog/concurrency)
