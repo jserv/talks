@@ -18,6 +18,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Jun 21 / GUTS: [Linux 核心設計: 發展動態回顧](https://hackmd.io/@sysprog/linux-kernel-internal)
 * Jun 23 / OSS-NA: [Towards PREEMPT\_RT for the Full Task Isolation](https://ossna2022.sched.com/event/11NtQ)
 * Aug 24 / OSS-LA: [Revisit Multi-Reader Synchronizations for Scalable Applications](https://osslatam22.sched.com/event/15BsE)
+* Sep 4 / SITCON: [返校十年：投身資訊教育經驗談](https://sitcon.org/2022/agenda/35255d)
 
 # schedule 2021
 * Jan 11 / GUTS: [並行和多執行緒程式設計 (1)](https://hackmd.io/@sysprog/concurrency)
