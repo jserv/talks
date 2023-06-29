@@ -3,6 +3,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 # schedule 2023
 * May 25 / CTHPC: [Accelerating multi-tenant services using in-kernel I/O offloading](https://sites.google.com/view/cthpc2023/program)
 * May 26 / CTHPC: [Construct a Compact and Efficient RISC-V Instruction Set Simulator](https://sites.google.com/view/cthpc2023/program)
+* Sep 20 / OSS-EU: [Lightweight and Fast WiFi Access in Virtual Machines](https://osseu2023.sched.com/event/1OGgh)
 
 # schedule 2022
 * Jan 2 / GUTS: [你所不知道的 C 語言: linked list 和非連續記憶體存取](https://hackmd.io/@sysprog/c-prog)
