@@ -109,7 +109,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Oct 11 / GUTS: [你所不知道的 C 語言：執行階段程式庫 (CRT)](https://hackmd.io/@sysprog/c-prog)
 * Oct 18 / 商業發展研究院:「做中學」的態度探索電腦系統
 * Oct 20 / COSCON: [作為泛用服務的數字身份識別](http://coscon.kaiyuanshe.cn/)
-* Oct 23 / OSS-EU: [Linux-based RTOS Experimental Platform for Constructing Self-driving Vehicles](http://sched.co/FxWG)
+* Oct 23 / OSS-EU: [Linux-based RTOS Experimental Platform for Constructing Self-driving Vehicles](https://osseu18.sched.com/event/FxWG)
 * Nov 4 / MOPCON: [智慧電網背後的軟體建設](https://mopcon.org/2018/schedule.php)
 * Nov 15 / GUTS: [Linux 核心設計: 透過 eBPF 觀察作業系統行為](https://beta.hackfoldr.org/linux)
 * Nov 22 / 區塊鏈愛好者年會: 非同步跨鏈通訊協定的實作環境 (Asynchronous Inter-Blockchain Protocol)
@@ -144,8 +144,8 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Jul 14 / 成大資訊: [指尖上的通訊與運算： 技術發展回顧和前瞻](https://hackmd.io/s/BJ1gF_GBb)
 * Aug 16 / GUTS: [從無到有打造 IoT 作業系統核心：以 Piko/RT 為例](https://beta.hackfoldr.org/oscar)
 * Aug 22 / GUTS: [手機裡的 ARM 處理器: Cortex-M](https://beta.hackfoldr.org/arm)
-* Sep 11 / OSS-NA: [Deterministic Memory Allocation for Mission-Critical Linux](https://ossna2017.sched.com/event/BCsR/deterministic-memory-allocation-for-mission-critical-linux-jim-huang-south-star-xelerator-keng-fu-hsu-national-cheng-kung-university)
-* Sep 13 / OSS-NA: [Build Cloud Infrastructure with ARMv8](https://ossna2017.sched.com/event/BDqU/build-cloud-infrastructure-with-cheap-arm-boards-jim-huang-south-star-xelerator-yu-chiang-huang-national-chiao-tung-university)
+* Sep 11 / OSS-NA: [Deterministic Memory Allocation for Mission-Critical Linux](https://ossna2017.sched.com/event/BCsR)
+* Sep 13 / OSS-NA: [Build Cloud Infrastructure with ARMv8](https://ossna2017.sched.com/event/BDqU)
 * Sep 29 / JCConf: [Ahead-of-Time (AOT) compilation in Java 9](http://jcconf.tw/2017/speaker/jserv.html)
 * Oct 3 / GUTS: [現代處理器原理和關鍵特徵 (上)](https://hackmd.io/s/Hk2CscGcl)
 * Oct 5 / GUTS: [現代處理器原理和關鍵特徵 (下)](https://hackmd.io/s/Hk2CscGcl)
@@ -174,7 +174,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Mar 8 / GUTS: 淺談開放原始碼和作業系統變革
 * Mar 21 / GUTS: Linux 在工業控制的應用：淺談即時系統的設計與實做
 * Apr 1 / GUTS: [你所不知道的 C 語言：物件導向程式設計篇](https://hackmd.io/@sysprog/c-prog)
-* Apr 4 / OpenIoT: uVisor Debugging Facility Improvements for ARM mbed
+* Apr 4 / OpenIoT: [uVisor Debugging Facility Improvements for ARM mbed](http://events17.linuxfoundation.org/sites/events/files/slides/mbed-uvisor.pdf)
 * May 11 / GUTS: [你所不知道的 C 語言：物件導向程式設計篇](https://hackmd.io/@sysprog/c-prog)
 * May 12 / GUTS: [淺談 Microkernel 設計和真實世界中的應用](https://beta.hackfoldr.org/oscar/)
 * May 18 / 清大資工: [從作業系統的演化談 IoT 設計挑戰](http://web.cs.nthu.edu.tw/files/14-1015-103326,r67-1.php?Lang=zh-tw)
@@ -222,7 +222,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Oct 2 / 元智資工: [從你口袋中的手機談編譯器技術的多元應用](http://www.cse.yzu.edu.tw/resource/detail?sort=487)
 * Oct 12 / 台大資工: Implement Isolated Security Domains for ARM-based Low-Power Devices
 * Oct 14 / 交大資工: Build a Minimal Operating System Kernel for ARM
-* Oct 21-22 / [RTLWS](https://www.osadl.org/RTLWS-2015-Graz-Austria.rtlws17-graz-2015.0.html): [Performance Evaluation of Xenomai 3](https://www.osadl.org/?id=2198)
+* Oct 21-22 / [RTLWS](https://www.osadl.org/RTLWS-2015.rtlws-2015.0.html): [Performance Evaluation of Xenomai 3](https://www.osadl.org/?id=2181)
 * Nov 5 / 成大資訊: 你所不知道的 C 語言：指標篇 (Part I)
 * Nov 20 / 物聯網商機與投資媒合會: [針對物聯網的作業系統設計考量](http://heyevent.com/event/zbkkuokkgk37ca/)
 * Nov 21 / MOSUT: 編譯器 -- 從電腦科學最早的理論基礎到資訊工業的推手
@@ -266,7 +266,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Aug 23 / MOSUT: seL4 Overview
 * Sep 7 / FabLab 台灣年會: [Open Source & Open City](http://tdcp.kktix.cc/events/openfabcity0907)
 * Oct 8 / 中央開源社: [親手打造四軸飛行器](http://nos.kktix.cc/events/307dae5a)
-* Oct 15 / ELCE: [rtmux: A Thin Multiplexer To Provide Hard Realtime Applications For Linux](http://events.linuxfoundation.org/events/embedded-linux-conference-europe/program/schedule)
+* Oct 15 / ELCE: [rtmux: A Thin Multiplexer To Provide Hard Realtime Applications For Linux](https://lccoelce14.sched.com/event/1yF9qj1)
 * Nov 15 / JCConf: OpenJDK vs. Dalvik/ART
 * Nov 17 / 中正資工: The Design and Implementation of Linux Real-time Extensions
 * Nov 22 / 交大資工: [從四軸飛行器設計看異質多核心應用](http://ssw-nctu.kktix.cc/events/ssw01)
@@ -282,7 +282,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Jan 29 / TOSSUG: [少年 Compiler 的奇幻漂流：淺談編譯器技術的設計與實作](http://registrano.com/events/76f72c)
 * Feb 7 / 台中一中: 資訊系統導論
 * Feb 19 / Android Builders Summit: [Hardware Accelerated 2D Rendering for Android](assets/accel-2d-render.pdf)
-* Feb 22 / Embedded Linux Conference: [olibc: Another C Runtime Library for Embedded Linux](http://events.linuxfoundation.org/events/embedded-linux-conference/schedule)
+* Feb 22 / Embedded Linux Conference: [olibc: Another C Runtime Library for Embedded Linux](https://embeddedlinuxconference2013.sched.com/event/14ZARuH)
 * Mar 3 / Study-Area Tainan: [從 Binder 理解 Android 系統服務的運作原理](http://phorum.study-area.org/index.php/topic,68304.0.html)
 * Mar 7 / 新竹碼農: [虛擬機器設計與優化的初體驗](http://www.accupass.com/go/hcsm0307)
 * Mar 12 / 成大資訊: [從火星探測號談 RTOS scheduling](http://wiki.csie.ncku.edu.tw/embedded/schedule)
@@ -292,7 +292,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Apr 15 / 成大資訊: [Microkernel based Operating System Design for Embedded Systems](http://www.slideshare.net/jserv/microkernel-evolution)
 * Apr 20 / OSDC.tw: [完全用開放原始碼軟體進行嵌入式系統教學](http://www.slideshare.net/jserv/education-usingopensource)
 * May 16 / 中正資工: L4 微核心概念與 Fiasco.OC 設計
-* May 27 / Automotive Linux Summit Spring 2013: [Shorten Device Boot time for Automotive IVI and Navigation Systems](http://automotivelinuxsummitspring2013.sched.org/)
+* May 27 / Automotive Linux Summit Spring 2013: [Shorten Device Boot time for Automotive IVI and Navigation Systems](https://automotivelinuxsummitspring2013.sched.com/event/12jrgdh)
 * May 30 / 交大資工: [Applying Microkernel Architecture for Real-world Use Cases](http://www.cs.nctu.edu.tw/cswebsite/news/activities/view/595)
 * May 30 / 清大資工: [軟體效能分析與安全性議題](http://appuniverz.webs.com/)
 * Jun 6 / 中央資工: [淺談系統軟體的設計缺陷](http://goo.gl/Tlr2A)
