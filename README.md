@@ -6,6 +6,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Jul 30 / COSCUP: [開放原始碼文化融入教育場域](https://pretalx.coscup.org/coscup-2023/talk/CFGUDC/)
 * Sep 21 / OSS-EU: [Lightweight and Fast WiFi Access in Virtual Machines](https://osseu2023.sched.com/event/1OGgh)
 * Oct 30 / [TASTI](https://tasti2023.com/): Customizing Linux Systems in Aerospace
+* Nov 12 / MOPCON: 飛龍在天：無人飛行載具和軟體開發的新契機
 
 # schedule 2022
 * Jan 2 / GUTS: [你所不知道的 C 語言: linked list 和非連續記憶體存取](https://hackmd.io/@sysprog/c-prog)
