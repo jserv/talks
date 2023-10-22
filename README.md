@@ -7,6 +7,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Sep 21 / OSS-EU: [Lightweight and Fast WiFi Access in Virtual Machines](https://osseu2023.sched.com/event/1OGgh)
 * Oct 30 / [TASTI](https://tasti2023.com/): Customizing Linux Systems in Aerospace
 * Nov 12 / MOPCON: 飛龍在天：無人飛行載具和軟體開發的新契機
+* Dec 5 / OSS-JP: [RISC-V-Based Sandboxing for Secure and Efficient Software Execution](https://sched.co/1Typ4)
 
 # schedule 2022
 * Jan 2 / GUTS: [你所不知道的 C 語言: linked list 和非連續記憶體存取](https://hackmd.io/@sysprog/c-prog)
