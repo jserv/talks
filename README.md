@@ -3,6 +3,7 @@
 Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
 
 ## schedule 2024
+* Feb 5 / GUTS: [Linux 核心設計: 作業系統術語及概念](https://hackmd.io/@sysprog/linux-concepts)
 
 ## schedule 2023
 * May 25 / CTHPC: [Accelerating multi-tenant services using in-kernel I/O offloading](https://sites.google.com/view/cthpc2023/program)
