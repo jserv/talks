@@ -6,6 +6,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Feb 5 / GUTS: [Linux 核心設計: 作業系統術語及概念](https://hackmd.io/@sysprog/linux-concepts)
 * Apr 16 / OSS-NA: [Refining Data Structure Implementations in the Linux Kernel for Improved Performance](https://ossna2024.sched.com/event/1aBN5)
 * Apr 16 / EOSS: [Crafting a Vision-Aided Software Stack for UAV](https://eoss24.sched.com/event/1aBF7)
+* May 23 / GUTS: [KVM: Linux 虛擬化基礎建設](https://hackmd.io/@sysprog/linux-kvm)
 * Jun 8 / NCKU: 透過 Linux 核心重新認識數位化世界
 * Oct 17 / NTU: [Acceleration of RISC-V Simulation](https://csie.ntu.edu.tw/zh_tw/Announcements/Announcement7/%5B2024-10-18%5D%C2%A0%C2%A0Prof-Jserv-NCKU-Acceleration-of-RISC-V-31394650)
 * Oct 20 / VMIL: [Accelerate RISC-V Instruction Set Simulation by Tiered JIT Compilation](https://2024.splashcon.org/home/vmil-2024#program)
