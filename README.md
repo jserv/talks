@@ -4,6 +4,8 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 
 ## schedule 2024
 * Feb 5 / GUTS: [Linux 核心設計: 作業系統術語及概念](https://hackmd.io/@sysprog/linux-concepts)
+* Apr 16 / OSS-NA: [Refining Data Structure Implementations in the Linux Kernel for Improved Performance](https://ossna2024.sched.com/event/1aBN5)
+* Apr 16 / EOSS: [Crafting a Vision-Aided Software Stack for UAV](https://eoss24.sched.com/event/1aBF7)
 
 ## schedule 2023
 * May 25 / CTHPC: [Accelerating multi-tenant services using in-kernel I/O offloading](https://sites.google.com/view/cthpc2023/program)
