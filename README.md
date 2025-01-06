@@ -10,6 +10,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Oct 17 / NTU: [Acceleration of RISC-V Simulation](https://csie.ntu.edu.tw/zh_tw/Announcements/Announcement7/%5B2024-10-18%5D%C2%A0%C2%A0Prof-Jserv-NCKU-Acceleration-of-RISC-V-31394650)
 * Oct 20 / VMIL: [Accelerate RISC-V Instruction Set Simulation by Tiered JIT Compilation](https://2024.splashcon.org/home/vmil-2024#program)
 * Oct 27 / MOPCON: [淺談移動運算中的處理器演進](https://mopcon.org/2024/speaker/?id=2024026)
+* Dec 12 / NCU: 從無到有開發作業系統核心：善用開放原始碼技術
 
 ## schedule 2023
 * May 25 / CTHPC: [Accelerating multi-tenant services using in-kernel I/O offloading](https://sites.google.com/view/cthpc2023/program)
