@@ -287,7 +287,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Aug 23 / MOSUT: seL4 Overview
 * Sep 7 / FabLab 台灣年會: [Open Source & Open City](http://tdcp.kktix.cc/events/openfabcity0907)
 * Oct 8 / 中央開源社: [親手打造四軸飛行器](http://nos.kktix.cc/events/307dae5a)
-* Oct 15 / ELCE: [rtmux: A Thin Multiplexer To Provide Hard Realtime Applications For Linux](https://lccoelce14.sched.com/event/1yF9qj1)
+* Oct 15 / ELC-E: [rtmux: A Thin Multiplexer To Provide Hard Realtime Applications For Linux](https://lccoelce14.sched.com/event/1yF9qj1)
 * Nov 15 / JCConf: OpenJDK vs. Dalvik/ART
 * Nov 17 / 中正資工: The Design and Implementation of Linux Real-time Extensions
 * Nov 22 / 交大資工: [從四軸飛行器設計看異質多核心應用](http://ssw-nctu.kktix.cc/events/ssw01)
@@ -303,7 +303,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Jan 29 / TOSSUG: [少年 Compiler 的奇幻漂流：淺談編譯器技術的設計與實作](http://registrano.com/events/76f72c)
 * Feb 7 / 台中一中: 資訊系統導論
 * Feb 19 / Android Builders Summit: [Hardware Accelerated 2D Rendering for Android](assets/accel-2d-render.pdf)
-* Feb 22 / Embedded Linux Conference: [olibc: Another C Runtime Library for Embedded Linux](https://embeddedlinuxconference2013.sched.com/event/14ZARuH)
+* Feb 22 / ELC: [olibc: Another C Runtime Library for Embedded Linux](https://embeddedlinuxconference2013.sched.com/event/14ZARuH)
 * Mar 3 / Study-Area Tainan: [從 Binder 理解 Android 系統服務的運作原理](http://phorum.study-area.org/index.php/topic,68304.0.html)
 * Mar 7 / 新竹碼農: [虛擬機器設計與優化的初體驗](http://www.accupass.com/go/hcsm0307)
 * Mar 12 / 成大資訊: [從火星探測號談 RTOS scheduling](http://wiki.csie.ncku.edu.tw/embedded/schedule)
