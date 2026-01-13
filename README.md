@@ -2,6 +2,9 @@
 
 Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via email: <jserv.tw@gmail.com>.
 
+## schedule 2026
+* Jan 15 / GUTS: 開放原始碼專案協作說明
+
 ## schedule 2025
 * Jun 23 / OSS-NA: [Heterogeneous Linux and RTOS Software Architecture for Low-Price RISC-V Cores](https://sched.co/1zffe)
 * Jun 23 / OSS-NA: [Improve Load Balancing With Machine Learning Techniques Based on the Sched\_ext Framework](https://sched.co/1zffn)
