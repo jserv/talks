@@ -6,6 +6,7 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 * Jun 23 / OSS-NA: [Heterogeneous Linux and RTOS Software Architecture for Low-Price RISC-V Cores](https://sched.co/1zffe)
 * Jun 23 / OSS-NA: [Improve Load Balancing With Machine Learning Techniques Based on the Sched\_ext Framework](https://sched.co/1zffn)
 * Jun 24 / OSS-NA: [Make Valkey Multi-threaded With Userspace RCU](https://sched.co/1zfgZ)
+* Nov 8 / MOPCON: [AI 協作式專案導向學習](https://mopcon.org/2025/agenda/)
 
 ## schedule 2024
 * Feb 5 / GUTS: [Linux 核心設計: 作業系統術語及概念](https://hackmd.io/@sysprog/linux-concepts)
