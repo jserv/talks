@@ -5,6 +5,8 @@ Presentations of Jim Huang (aka "jserv"). Welcome to send speech invitations via
 ## schedule 2026
 * Jan 15 / GUTS: 開放原始碼專案協作說明
 * Mar 11 / RISC-V Days: [RISC-V 在資訊教育的經驗談](https://2vx.io/Rw8XFUx)
+* May 19 / OSS-NA: [Optimize Linux Kernel To Fit Microcontrollers With 1 MB RAM](https://sched.co/2JQvE)
+* May 20 / OSS-NA: [Construct a Lean and Fast RISC-V System Emulator Capable of Running Linux](https://sched.co/2JQxM)
 
 ## schedule 2025
 * Jun 23 / OSS-NA: [Heterogeneous Linux and RTOS Software Architecture for Low-Price RISC-V Cores](https://sched.co/1zffe)
